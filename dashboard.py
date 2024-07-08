@@ -1,22 +1,20 @@
 import pandas as pd
 
 def get_revenue_expenditure_by_department(data, department):
-    # Filter data for the given department
+    
     dept_data = data[data['Department'] == department]
-    dept_data['Amount'] = dept_data['Amount'].astype(float)  # Convert Amount to float
+    dept_data['Amount'] = dept_data['Amount'].astype(float)  
 
-    # Separate the data into revenue (positive amounts) and expenditure (negative amounts)
+    
     dept_data.loc[dept_data['Amount'] > 0, 'Revenue'] = dept_data['Amount']
     dept_data.loc[dept_data['Amount'] < 0, 'Expenditure'] = -dept_data['Amount']
-  # convert to positive
-
-    # Group by category to sum the revenues and expenditures
+  
     category_summary = dept_data.groupby('Category').agg({
         'Revenue': 'sum',
         'Expenditure': 'sum'
     }).reset_index()
 
-    # Calculate total revenue and expenditure for the department
+    
     total_revenue = category_summary['Revenue'].sum()
     total_expenditure = category_summary['Expenditure'].sum()
 
@@ -56,19 +54,13 @@ def calculate_profit_metrics(data):
     }
 
 def dashboarddata(data):
-    # Rename columns for easier manipulation
+    
     data.columns = ['TransactionID', 'Date', 'Department', 'Category', 'Amount']
 
-    # Convert 'Date' column to datetime
     data['Date'] = pd.to_datetime(data['Date'], errors='coerce')
-
-    # Ensure 'Amount' is numeric, converting non-numeric to NaN
     data['Amount'] = pd.to_numeric(data['Amount'], errors='coerce')
-
-    # Drop rows with NaN values in 'Amount' column
     data = data.dropna(subset=['Amount'])
 
-    # Process and collect all necessary data
     department_data = {}
     for department in data['Department'].unique():
         department_data[department] = get_revenue_expenditure_by_department(data, department)
