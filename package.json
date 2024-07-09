@@ -2,8 +2,13 @@
     "name": "openshop-analytics-dashboard",
     "version": "0.1.0",
     "private": true,
+    "proxy": "https://b070-47-247-94-66.ngrok-free.app",
     "dependencies": {
+        "@emotion/react": "^11.11.4",
+        "@emotion/styled": "^11.11.5",
         "@headlessui/react": "^1.6.4",
+        "@mui/material": "^5.16.0",
+        "axios": "^1.7.2",
         "classnames": "^2.3.1",
         "date-fns": "^2.28.0",
         "nodemon": "^3.1.3",

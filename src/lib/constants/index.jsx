@@ -1,7 +1,6 @@
 import {
 	HiOutlineViewGrid,
 	HiOutlineCube,
-	HiOutlineShoppingCart,
 	HiOutlineUsers,
 	HiOutlineDocumentText,
 	HiOutlineAnnotation,
@@ -22,12 +21,7 @@ export const DASHBOARD_SIDEBAR_LINKS = [
 		path: '/departments',
 		icon: <HiOutlineCube />
 	},
-	{
-		key: 'orders',
-		label: 'Orders',
-		path: '/orders',
-		icon: <HiOutlineShoppingCart />
-	},
+	
 	{
 		key: 'profit',
 		label: 'Profit',
