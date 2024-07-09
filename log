@@ -1,0 +1,99 @@
+[33mcommit 68b94f60c4cbe0b7fa51f447f58f9e24e6a2f904[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfrontend[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 4bc9a17 740f2c4
+Author: siddharthgowd000 <siddharthgowd000>
+Date:   Tue Jul 9 13:38:00 2024 +0530
+
+    Merge branch 'main' of https://github.com/sainanduk/Financial-Analysis
+
+[33mcommit 4bc9a17741490aad5988e63c248f9ec625466cfd[m
+Author: siddharthgowd000 <siddharthgowd000>
+Date:   Tue Jul 9 13:37:50 2024 +0530
+
+    meeting-2 updated
+
+[33mcommit 740f2c4e5f9e5cea8e5fc101fc9879fba793311d[m
+Author: sainandu <131136038+sainanduk@users.noreply.github.com>
+Date:   Mon Jul 8 19:17:19 2024 +0530
+
+    Update departments.py
+
+[33mcommit 4cf544ec2f9ec534be195b3709d2718a030ac06c[m
+Author: sainandu <131136038+sainanduk@users.noreply.github.com>
+Date:   Mon Jul 8 19:15:09 2024 +0530
+
+    Update db.py
+
+[33mcommit efc50a2bf0e8ee08a91ae953d21a58829446de1f[m
+Author: sainandu <131136038+sainanduk@users.noreply.github.com>
+Date:   Mon Jul 8 19:14:53 2024 +0530
+
+    Update dashboard.py
+
+[33mcommit f552231e5a9f8c048b5eb5255d64e0383d55742a[m
+Author: sainandu <131136038+sainanduk@users.noreply.github.com>
+Date:   Mon Jul 8 19:13:51 2024 +0530
+
+    Delete backend
+
+[33mcommit 7100848bffa3cc7544ac205b61fa9e282fd31eda[m
+Merge: 6901692 66e1326
+Author: sainandu <131136038+sainanduk@users.noreply.github.com>
+Date:   Mon Jul 8 19:03:35 2024 +0530
+
+    Merge pull request #5 from sainanduk/Backend
+    
+    backend api
+
+[33mcommit 66e1326d7697c219504eadd4269a314e8e5cb671[m
+Author: sainandu <131136038+sainanduk@users.noreply.github.com>
+Date:   Mon Jul 8 19:02:30 2024 +0530
+
+    Add files via upload
+
+[33mcommit 6901692b791dfe43745d0cf6a431589604b5d6f5[m
+Author: sainandu <131136038+sainanduk@users.noreply.github.com>
+Date:   Mon Jul 8 18:58:22 2024 +0530
+
+    Create backend
+
+[33mcommit 274cc7ddfb192dbd13514615682a065b03c3f594[m
+Merge: 09ef097 ad66d57
+Author: Siddharth <109592883+siddharthgowd000@users.noreply.github.com>
+Date:   Thu Jun 13 18:59:09 2024 +0530
+
+    Merge pull request #4 from sainanduk/Frontend
+    
+    frontend updated
+
+[33mcommit ad66d577ca33af01ca855445724a17df9ae30bd1[m[33m ([m[1;31morigin/Frontend[m[33m)[m
+Author: siddharthgowd000 <siddharthgowd000@gmail.com>
+Date:   Sat Jun 8 12:12:35 2024 +0530
+
+    frontend updated
+
+[33mcommit 09ef097665e62688de66c88a4c08b319550e0129[m
+Merge: 8e608a2 d2aa656
+Author: sainandu <131136038+sainanduk@users.noreply.github.com>
+Date:   Fri Jun 7 22:16:33 2024 +0530
+
+    Merge pull request #2 from sainanduk/Backend
+    
+    test commit
+
+[33mcommit d2aa656da10d973b46d8578d87ad1f0308ae9c66[m[33m ([m[1;31morigin/Backend[m[33m)[m
+Author: sai nandu <sainandu@NAndus-MacBook-Air.local>
+Date:   Fri Jun 7 22:15:13 2024 +0530
+
+    test commit
+
+[33mcommit 8e608a20bd496e5add8c81c56593bf1d132a43cb[m
+Author: sai nandu <sainandu@NAndus-MacBook-Air.local>
+Date:   Fri Jun 7 21:26:45 2024 +0530
+
+    initial commit
+
+[33mcommit f88f5d26248fd5fadb5adfc95c4d32290a4bbba4[m
+Author: sai nandu <sainandu@NAndus-MacBook-Air.local>
+Date:   Fri Jun 7 21:09:09 2024 +0530
+
+    initial commit
