@@ -5,7 +5,7 @@ import Register from './pages/Register';
 import Dashboard from './pages/Dashboard';
 import Departments from './pages/Departments';
 import Transactions from './pages/Transactions';
-import RegistrationForm from './pages/RegistrationForm';
+
 
 function App() {
   return (
@@ -17,8 +17,6 @@ function App() {
           <Route path="transactions" element={<Transactions />} />
         </Route>
         <Route path="/register" element={<Register />} />
-        <Route path="/login" element={<RegistrationForm />} /> {/* Route for Login */}
-        <Route path="/signup" element={<RegistrationForm />} /> {/* Route for SignUp */}
       </Routes>
     </Router>
   );
