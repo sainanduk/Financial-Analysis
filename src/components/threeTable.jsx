@@ -12,6 +12,9 @@ const StyledTableCell = styled(TableCell)(({ theme }) => ({
   [`&.${tableCellClasses.head}`]: {
     backgroundColor: theme.palette.common.black,
     color: theme.palette.common.white,
+    position: 'sticky',
+    top: 0,
+    zIndex: 1, // Ensures it stays above the scrolling content
   },
   [`&.${tableCellClasses.body}`]: {
     fontSize: 14,
@@ -28,30 +31,46 @@ const StyledTableRow = styled(TableRow)(({ theme }) => ({
   },
 }));
 
+const ScrollableTableContainer = styled(TableContainer)(({ theme }) => ({
+  maxHeight: 400, // Adjust the maximum height as needed
+  overflowY: 'auto',
+}));
+
 const ThreeTable = ({ data }) => {
+  if (!data) {
+    return <div>Loading...</div>;
+  }
+
+  // Extract departments from data
+  const departments = Object.values(data).map(department => ({
+    name: department.Department,
+    expenditure: department.TotalExpenditure,
+    revenue: department.TotalRevenue
+  }));
+
   return (
-    <TableContainer component={Paper}>
+    <ScrollableTableContainer component={Paper}>
       <Table sx={{ minWidth: 700 }} aria-label="customized table">
         <TableHead>
           <TableRow>
             <StyledTableCell>Department</StyledTableCell>
-            <StyledTableCell align="center">Expenditure</StyledTableCell>
+            <StyledTableCell align="right">Expenditure</StyledTableCell>
             <StyledTableCell align="right">Revenue</StyledTableCell>
           </TableRow>
         </TableHead>
         <TableBody>
-          {data.map((row, index) => (
+          {departments.map((row, index) => (
             <StyledTableRow key={index}>
               <StyledTableCell component="th" scope="row">
-                {row.department}
+                {row.name}
               </StyledTableCell>
-              <StyledTableCell align="right">{row.expenditure}</StyledTableCell>
-              <StyledTableCell align="right">{row.revenue}</StyledTableCell>
+              <StyledTableCell align="right">{row.expenditure.toFixed(2)}</StyledTableCell>
+              <StyledTableCell align="right">{row.revenue.toFixed(2)}</StyledTableCell>
             </StyledTableRow>
           ))}
         </TableBody>
       </Table>
-    </TableContainer>
+    </ScrollableTableContainer>
   );
 }
 

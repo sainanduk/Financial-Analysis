@@ -2,30 +2,30 @@ import React from 'react';
 import { ResponsiveContainer, BarChart, CartesianGrid, XAxis, YAxis, Tooltip, Legend, Bar } from 'recharts';
 
 export default function BarCharts({ data }) {
+    if (!data) {
+        return <div>Loading...</div>;
+    }
 
-    let chartData = []
-    // Extracting department data from API response
-    // const departmentsData = Object.values(data.Departments);
-    
-    // // Function to transform department data into a format suitable for BarChart
-    // const prepareChartData = () => {
-    //     let chartData = [];
-        
-    //     departmentsData.forEach(department => {
-    //         department.DepartmentSummary.forEach(summary => {
-    //             chartData.push({
-    //                 department: department.Department,
-    //                 category: summary.Category,
-    //                 expenditure: summary.Expenditure,
-    //                 revenue: summary.Revenue
-    //             });
-    //         });
-    //     });
-        
-    //     return chartData;
-    // };
-    
-    // const chartData = prepareChartData();
+    const prepareChartData = () => {
+        let chartData = [];
+
+        Object.values(data).forEach(department => {
+            department.DepartmentSummary.forEach(summary => {
+                chartData.push({
+                    department: department.Department,
+                    category: summary.Category,
+                    expenditure: summary.Expenditure,
+                    revenue: summary.Revenue
+                });
+            });
+        });
+
+        return chartData;
+    };
+
+    const chartData = prepareChartData();
+    console.log(chartData);
+    console.log("Charts");
 
     return (
         <div className="h-[22rem] bg-white p-4 rounded-sm border border-gray-200 flex flex-col flex-1">
@@ -43,13 +43,13 @@ export default function BarCharts({ data }) {
                             bottom: 0
                         }}
                     >
-                        <CartesianGrid strokeDasharray="3 3 0 0" vertical={false} />
+                        <CartesianGrid strokeDasharray="3 3" vertical={false} />
                         <XAxis dataKey="department" />
                         <YAxis />
                         <Tooltip />
                         <Legend />
-                        <Bar dataKey="expenditure" name="Expenditure" fill="#0ea5e9" />
-                        <Bar dataKey="revenue" name="Revenue" fill="#ea580c" />
+                        <Bar dataKey="expenditure" name="Expenditure" fill="#ea580c" />
+                        <Bar dataKey="revenue" name="Revenue" fill="#0ea5e9" />
                     </BarChart>
                 </ResponsiveContainer>
             </div>
