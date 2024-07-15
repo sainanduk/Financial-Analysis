@@ -1,0 +1,5110 @@
+{
+  "CurrentStatus": {
+    "CurrentStatus": -1864757.2
+  },
+  "DepartmentSummary": {
+    "Categories": [
+      "Training",
+      "Salary",
+      "Recruitment"
+    ],
+    "CategorySummary": [
+      {
+        "Category": "Training",
+        "Expenditure": 628913.0,
+        "Profit": 628913.0,
+        "Revenue": 0.0
+      },
+      {
+        "Category": "Salary",
+        "Expenditure": 621983.69,
+        "Profit": 621983.69,
+        "Revenue": 0.0
+      },
+      {
+        "Category": "Recruitment",
+        "Expenditure": 613860.51,
+        "Profit": 613860.51,
+        "Revenue": 0.0
+      }
+    ],
+    "Department": "HR",
+    "TotalExpenditure": 1864757.2,
+    "TotalRevenue": 0.0
+  },
+  "TotalProfit": {
+    "TotalExpenditure": -1864757.2,
+    "TotalProfit": -1864757.2,
+    "TotalRevenue": 0.0
+  },
+  "Transactions": [
+    {
+      "Amount": -1788.71,
+      "Category": "Training",
+      "DateandTime": "2023-05-09",
+      "Department": "HR",
+      "TransactionID": "T00008"
+    },
+    {
+      "Amount": -4536.68,
+      "Category": "Training",
+      "DateandTime": "2024-02-22",
+      "Department": "HR",
+      "TransactionID": "T00019"
+    },
+    {
+      "Amount": -2704.72,
+      "Category": "Salary",
+      "DateandTime": "2023-08-13",
+      "Department": "HR",
+      "TransactionID": "T00047"
+    },
+    {
+      "Amount": -715.02,
+      "Category": "Training",
+      "DateandTime": "2024-02-05",
+      "Department": "HR",
+      "TransactionID": "T00051"
+    },
+    {
+      "Amount": -1520.65,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-21",
+      "Department": "HR",
+      "TransactionID": "T00061"
+    },
+    {
+      "Amount": -2351.87,
+      "Category": "Training",
+      "DateandTime": "2023-07-12",
+      "Department": "HR",
+      "TransactionID": "T00062"
+    },
+    {
+      "Amount": -341.53,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-24",
+      "Department": "HR",
+      "TransactionID": "T00063"
+    },
+    {
+      "Amount": -3284.72,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-11",
+      "Department": "HR",
+      "TransactionID": "T00085"
+    },
+    {
+      "Amount": -2366.26,
+      "Category": "Salary",
+      "DateandTime": "2024-02-19",
+      "Department": "HR",
+      "TransactionID": "T00093"
+    },
+    {
+      "Amount": -4111.12,
+      "Category": "Salary",
+      "DateandTime": "2023-11-16",
+      "Department": "HR",
+      "TransactionID": "T00098"
+    },
+    {
+      "Amount": -630.26,
+      "Category": "Training",
+      "DateandTime": "2023-09-11",
+      "Department": "HR",
+      "TransactionID": "T00101"
+    },
+    {
+      "Amount": -4150.61,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-14",
+      "Department": "HR",
+      "TransactionID": "T00108"
+    },
+    {
+      "Amount": -2446.13,
+      "Category": "Salary",
+      "DateandTime": "2023-10-23",
+      "Department": "HR",
+      "TransactionID": "T00129"
+    },
+    {
+      "Amount": -3211.57,
+      "Category": "Training",
+      "DateandTime": "2023-09-21",
+      "Department": "HR",
+      "TransactionID": "T00142"
+    },
+    {
+      "Amount": -986.76,
+      "Category": "Salary",
+      "DateandTime": "2023-10-21",
+      "Department": "HR",
+      "TransactionID": "T00147"
+    },
+    {
+      "Amount": -1082.95,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-27",
+      "Department": "HR",
+      "TransactionID": "T00154"
+    },
+    {
+      "Amount": -4124.16,
+      "Category": "Training",
+      "DateandTime": "2023-12-06",
+      "Department": "HR",
+      "TransactionID": "T00156"
+    },
+    {
+      "Amount": -2128.13,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-26",
+      "Department": "HR",
+      "TransactionID": "T00160"
+    },
+    {
+      "Amount": -3751.4,
+      "Category": "Salary",
+      "DateandTime": "2024-02-15",
+      "Department": "HR",
+      "TransactionID": "T00174"
+    },
+    {
+      "Amount": -3477.75,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-11",
+      "Department": "HR",
+      "TransactionID": "T00181"
+    },
+    {
+      "Amount": -1372.73,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-08",
+      "Department": "HR",
+      "TransactionID": "T00188"
+    },
+    {
+      "Amount": -2648.58,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-19",
+      "Department": "HR",
+      "TransactionID": "T00196"
+    },
+    {
+      "Amount": -3604.4,
+      "Category": "Salary",
+      "DateandTime": "2024-03-21",
+      "Department": "HR",
+      "TransactionID": "T00199"
+    },
+    {
+      "Amount": -4297.39,
+      "Category": "Training",
+      "DateandTime": "2023-04-04",
+      "Department": "HR",
+      "TransactionID": "T00201"
+    },
+    {
+      "Amount": -1442.22,
+      "Category": "Salary",
+      "DateandTime": "2024-03-26",
+      "Department": "HR",
+      "TransactionID": "T00202"
+    },
+    {
+      "Amount": -2077.7,
+      "Category": "Training",
+      "DateandTime": "2023-09-12",
+      "Department": "HR",
+      "TransactionID": "T00208"
+    },
+    {
+      "Amount": -3508.41,
+      "Category": "Salary",
+      "DateandTime": "2023-06-18",
+      "Department": "HR",
+      "TransactionID": "T00211"
+    },
+    {
+      "Amount": -4458.84,
+      "Category": "Training",
+      "DateandTime": "2023-04-14",
+      "Department": "HR",
+      "TransactionID": "T00225"
+    },
+    {
+      "Amount": -895.17,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-12",
+      "Department": "HR",
+      "TransactionID": "T00234"
+    },
+    {
+      "Amount": -436.53,
+      "Category": "Salary",
+      "DateandTime": "2023-08-16",
+      "Department": "HR",
+      "TransactionID": "T00238"
+    },
+    {
+      "Amount": -2825.61,
+      "Category": "Training",
+      "DateandTime": "2024-02-16",
+      "Department": "HR",
+      "TransactionID": "T00241"
+    },
+    {
+      "Amount": -1638.25,
+      "Category": "Salary",
+      "DateandTime": "2023-07-18",
+      "Department": "HR",
+      "TransactionID": "T00253"
+    },
+    {
+      "Amount": -2281.55,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-17",
+      "Department": "HR",
+      "TransactionID": "T00257"
+    },
+    {
+      "Amount": -4230.78,
+      "Category": "Salary",
+      "DateandTime": "2024-03-28",
+      "Department": "HR",
+      "TransactionID": "T00263"
+    },
+    {
+      "Amount": -1873.64,
+      "Category": "Training",
+      "DateandTime": "2023-12-01",
+      "Department": "HR",
+      "TransactionID": "T00277"
+    },
+    {
+      "Amount": -3683.59,
+      "Category": "Salary",
+      "DateandTime": "2024-03-23",
+      "Department": "HR",
+      "TransactionID": "T00279"
+    },
+    {
+      "Amount": -4492.68,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-17",
+      "Department": "HR",
+      "TransactionID": "T00291"
+    },
+    {
+      "Amount": -1487.34,
+      "Category": "Training",
+      "DateandTime": "2023-08-22",
+      "Department": "HR",
+      "TransactionID": "T00295"
+    },
+    {
+      "Amount": -1794.2,
+      "Category": "Training",
+      "DateandTime": "2023-07-18",
+      "Department": "HR",
+      "TransactionID": "T00299"
+    },
+    {
+      "Amount": -564.48,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-22",
+      "Department": "HR",
+      "TransactionID": "T00305"
+    },
+    {
+      "Amount": -1053.4,
+      "Category": "Training",
+      "DateandTime": "2023-05-25",
+      "Department": "HR",
+      "TransactionID": "T00316"
+    },
+    {
+      "Amount": -1530.13,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-11",
+      "Department": "HR",
+      "TransactionID": "T00331"
+    },
+    {
+      "Amount": -3758.5,
+      "Category": "Training",
+      "DateandTime": "2023-12-26",
+      "Department": "HR",
+      "TransactionID": "T00342"
+    },
+    {
+      "Amount": -2308.93,
+      "Category": "Salary",
+      "DateandTime": "2024-03-07",
+      "Department": "HR",
+      "TransactionID": "T00345"
+    },
+    {
+      "Amount": -2109.23,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-23",
+      "Department": "HR",
+      "TransactionID": "T00353"
+    },
+    {
+      "Amount": -1413.86,
+      "Category": "Salary",
+      "DateandTime": "2024-01-08",
+      "Department": "HR",
+      "TransactionID": "T00359"
+    },
+    {
+      "Amount": -1805.45,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-09",
+      "Department": "HR",
+      "TransactionID": "T00366"
+    },
+    {
+      "Amount": -1972.26,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-23",
+      "Department": "HR",
+      "TransactionID": "T00369"
+    },
+    {
+      "Amount": -3558.81,
+      "Category": "Training",
+      "DateandTime": "2023-12-17",
+      "Department": "HR",
+      "TransactionID": "T00384"
+    },
+    {
+      "Amount": -3511.61,
+      "Category": "Salary",
+      "DateandTime": "2023-06-22",
+      "Department": "HR",
+      "TransactionID": "T00386"
+    },
+    {
+      "Amount": -4710.92,
+      "Category": "Training",
+      "DateandTime": "2023-05-21",
+      "Department": "HR",
+      "TransactionID": "T00391"
+    },
+    {
+      "Amount": -4079.4,
+      "Category": "Salary",
+      "DateandTime": "2023-10-24",
+      "Department": "HR",
+      "TransactionID": "T00413"
+    },
+    {
+      "Amount": -2242.38,
+      "Category": "Training",
+      "DateandTime": "2023-08-08",
+      "Department": "HR",
+      "TransactionID": "T00416"
+    },
+    {
+      "Amount": -1307.8,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-22",
+      "Department": "HR",
+      "TransactionID": "T00426"
+    },
+    {
+      "Amount": -888.96,
+      "Category": "Salary",
+      "DateandTime": "2023-11-08",
+      "Department": "HR",
+      "TransactionID": "T00429"
+    },
+    {
+      "Amount": -4479.38,
+      "Category": "Salary",
+      "DateandTime": "2023-05-05",
+      "Department": "HR",
+      "TransactionID": "T00443"
+    },
+    {
+      "Amount": -3955.59,
+      "Category": "Salary",
+      "DateandTime": "2023-11-22",
+      "Department": "HR",
+      "TransactionID": "T00446"
+    },
+    {
+      "Amount": -1711.37,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-26",
+      "Department": "HR",
+      "TransactionID": "T00449"
+    },
+    {
+      "Amount": -848.02,
+      "Category": "Salary",
+      "DateandTime": "2023-08-10",
+      "Department": "HR",
+      "TransactionID": "T00452"
+    },
+    {
+      "Amount": -3977.52,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-11",
+      "Department": "HR",
+      "TransactionID": "T00464"
+    },
+    {
+      "Amount": -4406.86,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-21",
+      "Department": "HR",
+      "TransactionID": "T00474"
+    },
+    {
+      "Amount": -4713.26,
+      "Category": "Training",
+      "DateandTime": "2023-10-27",
+      "Department": "HR",
+      "TransactionID": "T00483"
+    },
+    {
+      "Amount": -2510.35,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-06",
+      "Department": "HR",
+      "TransactionID": "T00493"
+    },
+    {
+      "Amount": -4332.2,
+      "Category": "Training",
+      "DateandTime": "2023-08-10",
+      "Department": "HR",
+      "TransactionID": "T00496"
+    },
+    {
+      "Amount": -2099.54,
+      "Category": "Training",
+      "DateandTime": "2024-03-06",
+      "Department": "HR",
+      "TransactionID": "T00497"
+    },
+    {
+      "Amount": -550.08,
+      "Category": "Training",
+      "DateandTime": "2023-05-02",
+      "Department": "HR",
+      "TransactionID": "T00498"
+    },
+    {
+      "Amount": -384.49,
+      "Category": "Training",
+      "DateandTime": "2024-01-12",
+      "Department": "HR",
+      "TransactionID": "T00500"
+    },
+    {
+      "Amount": -1115.45,
+      "Category": "Training",
+      "DateandTime": "2023-04-11",
+      "Department": "HR",
+      "TransactionID": "T00510"
+    },
+    {
+      "Amount": -2538.38,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-24",
+      "Department": "HR",
+      "TransactionID": "T00522"
+    },
+    {
+      "Amount": -694.23,
+      "Category": "Salary",
+      "DateandTime": "2023-07-05",
+      "Department": "HR",
+      "TransactionID": "T00540"
+    },
+    {
+      "Amount": -3948.88,
+      "Category": "Salary",
+      "DateandTime": "2023-10-13",
+      "Department": "HR",
+      "TransactionID": "T00552"
+    },
+    {
+      "Amount": -4730.21,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-30",
+      "Department": "HR",
+      "TransactionID": "T00557"
+    },
+    {
+      "Amount": -4548.18,
+      "Category": "Salary",
+      "DateandTime": "2023-05-07",
+      "Department": "HR",
+      "TransactionID": "T00588"
+    },
+    {
+      "Amount": -997.19,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-03",
+      "Department": "HR",
+      "TransactionID": "T00594"
+    },
+    {
+      "Amount": -3830.45,
+      "Category": "Salary",
+      "DateandTime": "2024-01-10",
+      "Department": "HR",
+      "TransactionID": "T00595"
+    },
+    {
+      "Amount": -3617.66,
+      "Category": "Salary",
+      "DateandTime": "2024-01-13",
+      "Department": "HR",
+      "TransactionID": "T00604"
+    },
+    {
+      "Amount": -4532.96,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-20",
+      "Department": "HR",
+      "TransactionID": "T00637"
+    },
+    {
+      "Amount": -794.02,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-15",
+      "Department": "HR",
+      "TransactionID": "T00649"
+    },
+    {
+      "Amount": -1590.33,
+      "Category": "Training",
+      "DateandTime": "2023-07-26",
+      "Department": "HR",
+      "TransactionID": "T00653"
+    },
+    {
+      "Amount": -144.94,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-17",
+      "Department": "HR",
+      "TransactionID": "T00661"
+    },
+    {
+      "Amount": -4368.25,
+      "Category": "Training",
+      "DateandTime": "2023-07-13",
+      "Department": "HR",
+      "TransactionID": "T00666"
+    },
+    {
+      "Amount": -3963.19,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-29",
+      "Department": "HR",
+      "TransactionID": "T00672"
+    },
+    {
+      "Amount": -3341.75,
+      "Category": "Salary",
+      "DateandTime": "2023-06-29",
+      "Department": "HR",
+      "TransactionID": "T00681"
+    },
+    {
+      "Amount": -1853.77,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-02",
+      "Department": "HR",
+      "TransactionID": "T00697"
+    },
+    {
+      "Amount": -4523.24,
+      "Category": "Training",
+      "DateandTime": "2023-04-05",
+      "Department": "HR",
+      "TransactionID": "T00701"
+    },
+    {
+      "Amount": -2826.17,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-07",
+      "Department": "HR",
+      "TransactionID": "T00710"
+    },
+    {
+      "Amount": -4969.05,
+      "Category": "Training",
+      "DateandTime": "2023-04-12",
+      "Department": "HR",
+      "TransactionID": "T00718"
+    },
+    {
+      "Amount": -3552.34,
+      "Category": "Salary",
+      "DateandTime": "2023-09-10",
+      "Department": "HR",
+      "TransactionID": "T00741"
+    },
+    {
+      "Amount": -3088.09,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-18",
+      "Department": "HR",
+      "TransactionID": "T00753"
+    },
+    {
+      "Amount": -3476.4,
+      "Category": "Salary",
+      "DateandTime": "2023-08-14",
+      "Department": "HR",
+      "TransactionID": "T00754"
+    },
+    {
+      "Amount": -1977.3,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-09",
+      "Department": "HR",
+      "TransactionID": "T00786"
+    },
+    {
+      "Amount": -4035.62,
+      "Category": "Training",
+      "DateandTime": "2023-12-08",
+      "Department": "HR",
+      "TransactionID": "T00795"
+    },
+    {
+      "Amount": -3503.47,
+      "Category": "Training",
+      "DateandTime": "2023-09-23",
+      "Department": "HR",
+      "TransactionID": "T00804"
+    },
+    {
+      "Amount": -4772.02,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-31",
+      "Department": "HR",
+      "TransactionID": "T00808"
+    },
+    {
+      "Amount": -3730.86,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-07",
+      "Department": "HR",
+      "TransactionID": "T00809"
+    },
+    {
+      "Amount": -4316.03,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-14",
+      "Department": "HR",
+      "TransactionID": "T00811"
+    },
+    {
+      "Amount": -1016.18,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-20",
+      "Department": "HR",
+      "TransactionID": "T00813"
+    },
+    {
+      "Amount": -3411.21,
+      "Category": "Salary",
+      "DateandTime": "2024-01-19",
+      "Department": "HR",
+      "TransactionID": "T00816"
+    },
+    {
+      "Amount": -1458.37,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-25",
+      "Department": "HR",
+      "TransactionID": "T00837"
+    },
+    {
+      "Amount": -3388.97,
+      "Category": "Salary",
+      "DateandTime": "2024-02-19",
+      "Department": "HR",
+      "TransactionID": "T00840"
+    },
+    {
+      "Amount": -1493.93,
+      "Category": "Training",
+      "DateandTime": "2023-10-23",
+      "Department": "HR",
+      "TransactionID": "T00846"
+    },
+    {
+      "Amount": -1694.16,
+      "Category": "Salary",
+      "DateandTime": "2024-03-20",
+      "Department": "HR",
+      "TransactionID": "T00856"
+    },
+    {
+      "Amount": -4958.1,
+      "Category": "Salary",
+      "DateandTime": "2023-12-16",
+      "Department": "HR",
+      "TransactionID": "T00857"
+    },
+    {
+      "Amount": -872.78,
+      "Category": "Salary",
+      "DateandTime": "2023-07-04",
+      "Department": "HR",
+      "TransactionID": "T00872"
+    },
+    {
+      "Amount": -4876.14,
+      "Category": "Training",
+      "DateandTime": "2023-06-03",
+      "Department": "HR",
+      "TransactionID": "T00881"
+    },
+    {
+      "Amount": -1211.7,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-13",
+      "Department": "HR",
+      "TransactionID": "T00882"
+    },
+    {
+      "Amount": -4233.28,
+      "Category": "Training",
+      "DateandTime": "2023-09-09",
+      "Department": "HR",
+      "TransactionID": "T00887"
+    },
+    {
+      "Amount": -4178.38,
+      "Category": "Salary",
+      "DateandTime": "2023-09-19",
+      "Department": "HR",
+      "TransactionID": "T00899"
+    },
+    {
+      "Amount": -157.06,
+      "Category": "Salary",
+      "DateandTime": "2023-11-20",
+      "Department": "HR",
+      "TransactionID": "T00910"
+    },
+    {
+      "Amount": -4996.31,
+      "Category": "Salary",
+      "DateandTime": "2023-07-14",
+      "Department": "HR",
+      "TransactionID": "T00920"
+    },
+    {
+      "Amount": -4127.18,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-04",
+      "Department": "HR",
+      "TransactionID": "T00921"
+    },
+    {
+      "Amount": -987.4,
+      "Category": "Salary",
+      "DateandTime": "2024-01-14",
+      "Department": "HR",
+      "TransactionID": "T00935"
+    },
+    {
+      "Amount": -3948.4,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-15",
+      "Department": "HR",
+      "TransactionID": "T00938"
+    },
+    {
+      "Amount": -1107.49,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-29",
+      "Department": "HR",
+      "TransactionID": "T00942"
+    },
+    {
+      "Amount": -712.82,
+      "Category": "Salary",
+      "DateandTime": "2023-11-04",
+      "Department": "HR",
+      "TransactionID": "T00952"
+    },
+    {
+      "Amount": -4620.02,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-15",
+      "Department": "HR",
+      "TransactionID": "T00957"
+    },
+    {
+      "Amount": -3956.77,
+      "Category": "Salary",
+      "DateandTime": "2024-03-14",
+      "Department": "HR",
+      "TransactionID": "T00959"
+    },
+    {
+      "Amount": -4316.72,
+      "Category": "Salary",
+      "DateandTime": "2023-11-25",
+      "Department": "HR",
+      "TransactionID": "T00961"
+    },
+    {
+      "Amount": -4265.67,
+      "Category": "Training",
+      "DateandTime": "2023-05-24",
+      "Department": "HR",
+      "TransactionID": "T00966"
+    },
+    {
+      "Amount": -3139.61,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-17",
+      "Department": "HR",
+      "TransactionID": "T00969"
+    },
+    {
+      "Amount": -2166.85,
+      "Category": "Training",
+      "DateandTime": "2024-01-03",
+      "Department": "HR",
+      "TransactionID": "T00970"
+    },
+    {
+      "Amount": -3165.43,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-22",
+      "Department": "HR",
+      "TransactionID": "T00971"
+    },
+    {
+      "Amount": -4315.64,
+      "Category": "Training",
+      "DateandTime": "2024-03-27",
+      "Department": "HR",
+      "TransactionID": "T01013"
+    },
+    {
+      "Amount": -4810.5,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-07",
+      "Department": "HR",
+      "TransactionID": "T01025"
+    },
+    {
+      "Amount": -597.49,
+      "Category": "Salary",
+      "DateandTime": "2024-02-22",
+      "Department": "HR",
+      "TransactionID": "T01031"
+    },
+    {
+      "Amount": -4808.29,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-17",
+      "Department": "HR",
+      "TransactionID": "T01032"
+    },
+    {
+      "Amount": -3653.65,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-17",
+      "Department": "HR",
+      "TransactionID": "T01043"
+    },
+    {
+      "Amount": -3140.32,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-05",
+      "Department": "HR",
+      "TransactionID": "T01048"
+    },
+    {
+      "Amount": -4552.13,
+      "Category": "Salary",
+      "DateandTime": "2023-04-26",
+      "Department": "HR",
+      "TransactionID": "T01053"
+    },
+    {
+      "Amount": -333.72,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-20",
+      "Department": "HR",
+      "TransactionID": "T01070"
+    },
+    {
+      "Amount": -3363.65,
+      "Category": "Training",
+      "DateandTime": "2023-04-19",
+      "Department": "HR",
+      "TransactionID": "T01075"
+    },
+    {
+      "Amount": -2967.32,
+      "Category": "Training",
+      "DateandTime": "2023-11-23",
+      "Department": "HR",
+      "TransactionID": "T01080"
+    },
+    {
+      "Amount": -3974.85,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-23",
+      "Department": "HR",
+      "TransactionID": "T01091"
+    },
+    {
+      "Amount": -3432.05,
+      "Category": "Salary",
+      "DateandTime": "2023-09-04",
+      "Department": "HR",
+      "TransactionID": "T01095"
+    },
+    {
+      "Amount": -894.2,
+      "Category": "Training",
+      "DateandTime": "2023-11-25",
+      "Department": "HR",
+      "TransactionID": "T01098"
+    },
+    {
+      "Amount": -4853.58,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-20",
+      "Department": "HR",
+      "TransactionID": "T01106"
+    },
+    {
+      "Amount": -386.21,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-12",
+      "Department": "HR",
+      "TransactionID": "T01107"
+    },
+    {
+      "Amount": -1412.38,
+      "Category": "Salary",
+      "DateandTime": "2024-03-26",
+      "Department": "HR",
+      "TransactionID": "T01122"
+    },
+    {
+      "Amount": -3527.81,
+      "Category": "Training",
+      "DateandTime": "2023-07-01",
+      "Department": "HR",
+      "TransactionID": "T01129"
+    },
+    {
+      "Amount": -1907.93,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-24",
+      "Department": "HR",
+      "TransactionID": "T01130"
+    },
+    {
+      "Amount": -3973.47,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-15",
+      "Department": "HR",
+      "TransactionID": "T01145"
+    },
+    {
+      "Amount": -2245.39,
+      "Category": "Salary",
+      "DateandTime": "2023-12-05",
+      "Department": "HR",
+      "TransactionID": "T01151"
+    },
+    {
+      "Amount": -1278.13,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-14",
+      "Department": "HR",
+      "TransactionID": "T01156"
+    },
+    {
+      "Amount": -2271.58,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-24",
+      "Department": "HR",
+      "TransactionID": "T01163"
+    },
+    {
+      "Amount": -1705.14,
+      "Category": "Training",
+      "DateandTime": "2023-05-15",
+      "Department": "HR",
+      "TransactionID": "T01166"
+    },
+    {
+      "Amount": -3527.13,
+      "Category": "Salary",
+      "DateandTime": "2023-12-09",
+      "Department": "HR",
+      "TransactionID": "T01174"
+    },
+    {
+      "Amount": -1351.08,
+      "Category": "Salary",
+      "DateandTime": "2023-10-16",
+      "Department": "HR",
+      "TransactionID": "T01189"
+    },
+    {
+      "Amount": -2939.33,
+      "Category": "Salary",
+      "DateandTime": "2023-07-16",
+      "Department": "HR",
+      "TransactionID": "T01197"
+    },
+    {
+      "Amount": -2144.73,
+      "Category": "Salary",
+      "DateandTime": "2023-12-13",
+      "Department": "HR",
+      "TransactionID": "T01205"
+    },
+    {
+      "Amount": -1079.32,
+      "Category": "Salary",
+      "DateandTime": "2024-01-31",
+      "Department": "HR",
+      "TransactionID": "T01206"
+    },
+    {
+      "Amount": -2168.06,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-16",
+      "Department": "HR",
+      "TransactionID": "T01236"
+    },
+    {
+      "Amount": -2357.1,
+      "Category": "Training",
+      "DateandTime": "2024-03-01",
+      "Department": "HR",
+      "TransactionID": "T01254"
+    },
+    {
+      "Amount": -2452.93,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-13",
+      "Department": "HR",
+      "TransactionID": "T01259"
+    },
+    {
+      "Amount": -4178.68,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-11",
+      "Department": "HR",
+      "TransactionID": "T01266"
+    },
+    {
+      "Amount": -2804.08,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-20",
+      "Department": "HR",
+      "TransactionID": "T01268"
+    },
+    {
+      "Amount": -1704.2,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-21",
+      "Department": "HR",
+      "TransactionID": "T01280"
+    },
+    {
+      "Amount": -2712.48,
+      "Category": "Training",
+      "DateandTime": "2023-05-29",
+      "Department": "HR",
+      "TransactionID": "T01282"
+    },
+    {
+      "Amount": -1151.35,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-21",
+      "Department": "HR",
+      "TransactionID": "T01288"
+    },
+    {
+      "Amount": -2915.41,
+      "Category": "Training",
+      "DateandTime": "2023-05-26",
+      "Department": "HR",
+      "TransactionID": "T01298"
+    },
+    {
+      "Amount": -1548.0,
+      "Category": "Training",
+      "DateandTime": "2023-07-17",
+      "Department": "HR",
+      "TransactionID": "T01307"
+    },
+    {
+      "Amount": -306.54,
+      "Category": "Training",
+      "DateandTime": "2023-07-29",
+      "Department": "HR",
+      "TransactionID": "T01311"
+    },
+    {
+      "Amount": -861.01,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-05",
+      "Department": "HR",
+      "TransactionID": "T01314"
+    },
+    {
+      "Amount": -3860.12,
+      "Category": "Salary",
+      "DateandTime": "2023-10-26",
+      "Department": "HR",
+      "TransactionID": "T01318"
+    },
+    {
+      "Amount": -1960.4,
+      "Category": "Salary",
+      "DateandTime": "2023-05-11",
+      "Department": "HR",
+      "TransactionID": "T01325"
+    },
+    {
+      "Amount": -2983.78,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-07",
+      "Department": "HR",
+      "TransactionID": "T01356"
+    },
+    {
+      "Amount": -2560.25,
+      "Category": "Training",
+      "DateandTime": "2023-08-16",
+      "Department": "HR",
+      "TransactionID": "T01360"
+    },
+    {
+      "Amount": -876.45,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-04",
+      "Department": "HR",
+      "TransactionID": "T01362"
+    },
+    {
+      "Amount": -3098.02,
+      "Category": "Training",
+      "DateandTime": "2024-03-05",
+      "Department": "HR",
+      "TransactionID": "T01366"
+    },
+    {
+      "Amount": -332.16,
+      "Category": "Salary",
+      "DateandTime": "2024-02-24",
+      "Department": "HR",
+      "TransactionID": "T01374"
+    },
+    {
+      "Amount": -3885.66,
+      "Category": "Training",
+      "DateandTime": "2023-04-10",
+      "Department": "HR",
+      "TransactionID": "T01427"
+    },
+    {
+      "Amount": -125.57,
+      "Category": "Salary",
+      "DateandTime": "2023-12-21",
+      "Department": "HR",
+      "TransactionID": "T01428"
+    },
+    {
+      "Amount": -3916.07,
+      "Category": "Salary",
+      "DateandTime": "2024-02-20",
+      "Department": "HR",
+      "TransactionID": "T01429"
+    },
+    {
+      "Amount": -634.72,
+      "Category": "Training",
+      "DateandTime": "2023-09-15",
+      "Department": "HR",
+      "TransactionID": "T01452"
+    },
+    {
+      "Amount": -817.15,
+      "Category": "Training",
+      "DateandTime": "2023-06-18",
+      "Department": "HR",
+      "TransactionID": "T01454"
+    },
+    {
+      "Amount": -4439.87,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-01",
+      "Department": "HR",
+      "TransactionID": "T01461"
+    },
+    {
+      "Amount": -3223.06,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-09",
+      "Department": "HR",
+      "TransactionID": "T01463"
+    },
+    {
+      "Amount": -3464.23,
+      "Category": "Training",
+      "DateandTime": "2023-07-31",
+      "Department": "HR",
+      "TransactionID": "T01471"
+    },
+    {
+      "Amount": -2372.86,
+      "Category": "Training",
+      "DateandTime": "2023-11-07",
+      "Department": "HR",
+      "TransactionID": "T01476"
+    },
+    {
+      "Amount": -4743.63,
+      "Category": "Salary",
+      "DateandTime": "2024-03-26",
+      "Department": "HR",
+      "TransactionID": "T01477"
+    },
+    {
+      "Amount": -3245.29,
+      "Category": "Training",
+      "DateandTime": "2023-09-22",
+      "Department": "HR",
+      "TransactionID": "T01485"
+    },
+    {
+      "Amount": -1254.8,
+      "Category": "Training",
+      "DateandTime": "2023-12-05",
+      "Department": "HR",
+      "TransactionID": "T01496"
+    },
+    {
+      "Amount": -1218.95,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-10",
+      "Department": "HR",
+      "TransactionID": "T01515"
+    },
+    {
+      "Amount": -2535.68,
+      "Category": "Salary",
+      "DateandTime": "2023-09-17",
+      "Department": "HR",
+      "TransactionID": "T01533"
+    },
+    {
+      "Amount": -1628.92,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-11",
+      "Department": "HR",
+      "TransactionID": "T01624"
+    },
+    {
+      "Amount": -3566.94,
+      "Category": "Training",
+      "DateandTime": "2023-04-18",
+      "Department": "HR",
+      "TransactionID": "T01632"
+    },
+    {
+      "Amount": -1487.92,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-07",
+      "Department": "HR",
+      "TransactionID": "T01635"
+    },
+    {
+      "Amount": -3821.63,
+      "Category": "Salary",
+      "DateandTime": "2023-10-21",
+      "Department": "HR",
+      "TransactionID": "T01640"
+    },
+    {
+      "Amount": -3259.53,
+      "Category": "Training",
+      "DateandTime": "2023-12-28",
+      "Department": "HR",
+      "TransactionID": "T01643"
+    },
+    {
+      "Amount": -2192.26,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-27",
+      "Department": "HR",
+      "TransactionID": "T01650"
+    },
+    {
+      "Amount": -1786.61,
+      "Category": "Training",
+      "DateandTime": "2023-09-10",
+      "Department": "HR",
+      "TransactionID": "T01659"
+    },
+    {
+      "Amount": -334.5,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-10",
+      "Department": "HR",
+      "TransactionID": "T01683"
+    },
+    {
+      "Amount": -3569.33,
+      "Category": "Training",
+      "DateandTime": "2023-08-23",
+      "Department": "HR",
+      "TransactionID": "T01687"
+    },
+    {
+      "Amount": -1369.15,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-16",
+      "Department": "HR",
+      "TransactionID": "T01688"
+    },
+    {
+      "Amount": -2214.16,
+      "Category": "Training",
+      "DateandTime": "2023-11-04",
+      "Department": "HR",
+      "TransactionID": "T01693"
+    },
+    {
+      "Amount": -4663.17,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-28",
+      "Department": "HR",
+      "TransactionID": "T01699"
+    },
+    {
+      "Amount": -2911.33,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-14",
+      "Department": "HR",
+      "TransactionID": "T01735"
+    },
+    {
+      "Amount": -2237.67,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-05",
+      "Department": "HR",
+      "TransactionID": "T01758"
+    },
+    {
+      "Amount": -1289.03,
+      "Category": "Salary",
+      "DateandTime": "2023-04-07",
+      "Department": "HR",
+      "TransactionID": "T01759"
+    },
+    {
+      "Amount": -4926.3,
+      "Category": "Salary",
+      "DateandTime": "2023-11-14",
+      "Department": "HR",
+      "TransactionID": "T01766"
+    },
+    {
+      "Amount": -641.34,
+      "Category": "Salary",
+      "DateandTime": "2024-02-07",
+      "Department": "HR",
+      "TransactionID": "T01775"
+    },
+    {
+      "Amount": -2642.39,
+      "Category": "Salary",
+      "DateandTime": "2023-11-12",
+      "Department": "HR",
+      "TransactionID": "T01777"
+    },
+    {
+      "Amount": -3549.57,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-05",
+      "Department": "HR",
+      "TransactionID": "T01789"
+    },
+    {
+      "Amount": -3217.69,
+      "Category": "Salary",
+      "DateandTime": "2023-11-19",
+      "Department": "HR",
+      "TransactionID": "T01803"
+    },
+    {
+      "Amount": -4814.75,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-11",
+      "Department": "HR",
+      "TransactionID": "T01808"
+    },
+    {
+      "Amount": -3373.24,
+      "Category": "Salary",
+      "DateandTime": "2024-01-10",
+      "Department": "HR",
+      "TransactionID": "T01824"
+    },
+    {
+      "Amount": -3314.89,
+      "Category": "Training",
+      "DateandTime": "2023-07-21",
+      "Department": "HR",
+      "TransactionID": "T01825"
+    },
+    {
+      "Amount": -2826.34,
+      "Category": "Salary",
+      "DateandTime": "2023-04-28",
+      "Department": "HR",
+      "TransactionID": "T01829"
+    },
+    {
+      "Amount": -1153.46,
+      "Category": "Training",
+      "DateandTime": "2023-06-23",
+      "Department": "HR",
+      "TransactionID": "T01838"
+    },
+    {
+      "Amount": -1692.61,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-15",
+      "Department": "HR",
+      "TransactionID": "T01843"
+    },
+    {
+      "Amount": -4568.24,
+      "Category": "Salary",
+      "DateandTime": "2024-03-11",
+      "Department": "HR",
+      "TransactionID": "T01870"
+    },
+    {
+      "Amount": -3295.14,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-05",
+      "Department": "HR",
+      "TransactionID": "T01871"
+    },
+    {
+      "Amount": -2652.93,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-11",
+      "Department": "HR",
+      "TransactionID": "T01877"
+    },
+    {
+      "Amount": -3090.24,
+      "Category": "Salary",
+      "DateandTime": "2023-07-04",
+      "Department": "HR",
+      "TransactionID": "T01883"
+    },
+    {
+      "Amount": -1310.56,
+      "Category": "Training",
+      "DateandTime": "2024-03-04",
+      "Department": "HR",
+      "TransactionID": "T01889"
+    },
+    {
+      "Amount": -4085.7,
+      "Category": "Training",
+      "DateandTime": "2023-07-28",
+      "Department": "HR",
+      "TransactionID": "T01890"
+    },
+    {
+      "Amount": -2324.82,
+      "Category": "Salary",
+      "DateandTime": "2023-08-07",
+      "Department": "HR",
+      "TransactionID": "T01899"
+    },
+    {
+      "Amount": -1530.4,
+      "Category": "Training",
+      "DateandTime": "2023-07-06",
+      "Department": "HR",
+      "TransactionID": "T01905"
+    },
+    {
+      "Amount": -4788.66,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-16",
+      "Department": "HR",
+      "TransactionID": "T01913"
+    },
+    {
+      "Amount": -1366.22,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-05",
+      "Department": "HR",
+      "TransactionID": "T01919"
+    },
+    {
+      "Amount": -3155.25,
+      "Category": "Training",
+      "DateandTime": "2023-12-18",
+      "Department": "HR",
+      "TransactionID": "T01928"
+    },
+    {
+      "Amount": -921.82,
+      "Category": "Salary",
+      "DateandTime": "2023-09-20",
+      "Department": "HR",
+      "TransactionID": "T01963"
+    },
+    {
+      "Amount": -288.65,
+      "Category": "Salary",
+      "DateandTime": "2023-04-02",
+      "Department": "HR",
+      "TransactionID": "T01976"
+    },
+    {
+      "Amount": -2308.98,
+      "Category": "Salary",
+      "DateandTime": "2023-07-12",
+      "Department": "HR",
+      "TransactionID": "T01998"
+    },
+    {
+      "Amount": -4202.64,
+      "Category": "Salary",
+      "DateandTime": "2023-12-23",
+      "Department": "HR",
+      "TransactionID": "T02012"
+    },
+    {
+      "Amount": -2279.07,
+      "Category": "Salary",
+      "DateandTime": "2023-10-02",
+      "Department": "HR",
+      "TransactionID": "T02042"
+    },
+    {
+      "Amount": -1768.42,
+      "Category": "Salary",
+      "DateandTime": "2023-08-12",
+      "Department": "HR",
+      "TransactionID": "T02060"
+    },
+    {
+      "Amount": -3673.12,
+      "Category": "Training",
+      "DateandTime": "2023-08-25",
+      "Department": "HR",
+      "TransactionID": "T02063"
+    },
+    {
+      "Amount": -1180.46,
+      "Category": "Training",
+      "DateandTime": "2024-03-15",
+      "Department": "HR",
+      "TransactionID": "T02076"
+    },
+    {
+      "Amount": -3557.55,
+      "Category": "Salary",
+      "DateandTime": "2024-01-03",
+      "Department": "HR",
+      "TransactionID": "T02087"
+    },
+    {
+      "Amount": -220.57,
+      "Category": "Training",
+      "DateandTime": "2024-03-13",
+      "Department": "HR",
+      "TransactionID": "T02088"
+    },
+    {
+      "Amount": -148.59,
+      "Category": "Salary",
+      "DateandTime": "2024-03-30",
+      "Department": "HR",
+      "TransactionID": "T02092"
+    },
+    {
+      "Amount": -3735.31,
+      "Category": "Salary",
+      "DateandTime": "2024-03-21",
+      "Department": "HR",
+      "TransactionID": "T02097"
+    },
+    {
+      "Amount": -3435.53,
+      "Category": "Salary",
+      "DateandTime": "2023-05-03",
+      "Department": "HR",
+      "TransactionID": "T02100"
+    },
+    {
+      "Amount": -2839.94,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-15",
+      "Department": "HR",
+      "TransactionID": "T02146"
+    },
+    {
+      "Amount": -2855.91,
+      "Category": "Training",
+      "DateandTime": "2023-12-26",
+      "Department": "HR",
+      "TransactionID": "T02164"
+    },
+    {
+      "Amount": -3087.4,
+      "Category": "Salary",
+      "DateandTime": "2023-11-23",
+      "Department": "HR",
+      "TransactionID": "T02169"
+    },
+    {
+      "Amount": -4962.73,
+      "Category": "Salary",
+      "DateandTime": "2023-06-05",
+      "Department": "HR",
+      "TransactionID": "T02207"
+    },
+    {
+      "Amount": -2561.54,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-22",
+      "Department": "HR",
+      "TransactionID": "T02212"
+    },
+    {
+      "Amount": -1009.74,
+      "Category": "Training",
+      "DateandTime": "2023-12-27",
+      "Department": "HR",
+      "TransactionID": "T02221"
+    },
+    {
+      "Amount": -1684.58,
+      "Category": "Salary",
+      "DateandTime": "2024-02-23",
+      "Department": "HR",
+      "TransactionID": "T02234"
+    },
+    {
+      "Amount": -1464.57,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-19",
+      "Department": "HR",
+      "TransactionID": "T02239"
+    },
+    {
+      "Amount": -606.27,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-02",
+      "Department": "HR",
+      "TransactionID": "T02240"
+    },
+    {
+      "Amount": -487.82,
+      "Category": "Training",
+      "DateandTime": "2024-03-23",
+      "Department": "HR",
+      "TransactionID": "T02248"
+    },
+    {
+      "Amount": -3001.98,
+      "Category": "Training",
+      "DateandTime": "2023-11-25",
+      "Department": "HR",
+      "TransactionID": "T02261"
+    },
+    {
+      "Amount": -2505.96,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-05",
+      "Department": "HR",
+      "TransactionID": "T02285"
+    },
+    {
+      "Amount": -1419.11,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-04",
+      "Department": "HR",
+      "TransactionID": "T02303"
+    },
+    {
+      "Amount": -1574.79,
+      "Category": "Training",
+      "DateandTime": "2024-02-01",
+      "Department": "HR",
+      "TransactionID": "T02304"
+    },
+    {
+      "Amount": -2956.2,
+      "Category": "Salary",
+      "DateandTime": "2024-02-19",
+      "Department": "HR",
+      "TransactionID": "T02317"
+    },
+    {
+      "Amount": -1278.09,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-23",
+      "Department": "HR",
+      "TransactionID": "T02332"
+    },
+    {
+      "Amount": -3651.17,
+      "Category": "Training",
+      "DateandTime": "2023-04-01",
+      "Department": "HR",
+      "TransactionID": "T02380"
+    },
+    {
+      "Amount": -4308.64,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-07",
+      "Department": "HR",
+      "TransactionID": "T02391"
+    },
+    {
+      "Amount": -1837.39,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-11",
+      "Department": "HR",
+      "TransactionID": "T02397"
+    },
+    {
+      "Amount": -2974.36,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-11",
+      "Department": "HR",
+      "TransactionID": "T02419"
+    },
+    {
+      "Amount": -2596.97,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-11",
+      "Department": "HR",
+      "TransactionID": "T02420"
+    },
+    {
+      "Amount": -2804.31,
+      "Category": "Salary",
+      "DateandTime": "2023-09-02",
+      "Department": "HR",
+      "TransactionID": "T02421"
+    },
+    {
+      "Amount": -467.76,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-08",
+      "Department": "HR",
+      "TransactionID": "T02430"
+    },
+    {
+      "Amount": -2451.36,
+      "Category": "Salary",
+      "DateandTime": "2023-05-12",
+      "Department": "HR",
+      "TransactionID": "T02437"
+    },
+    {
+      "Amount": -4648.88,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-29",
+      "Department": "HR",
+      "TransactionID": "T02438"
+    },
+    {
+      "Amount": -2304.99,
+      "Category": "Salary",
+      "DateandTime": "2023-05-21",
+      "Department": "HR",
+      "TransactionID": "T02465"
+    },
+    {
+      "Amount": -2433.05,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-21",
+      "Department": "HR",
+      "TransactionID": "T02466"
+    },
+    {
+      "Amount": -4799.95,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-19",
+      "Department": "HR",
+      "TransactionID": "T02480"
+    },
+    {
+      "Amount": -4859.67,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-26",
+      "Department": "HR",
+      "TransactionID": "T02490"
+    },
+    {
+      "Amount": -2999.1,
+      "Category": "Salary",
+      "DateandTime": "2024-03-15",
+      "Department": "HR",
+      "TransactionID": "T02507"
+    },
+    {
+      "Amount": -2654.38,
+      "Category": "Training",
+      "DateandTime": "2023-06-22",
+      "Department": "HR",
+      "TransactionID": "T02521"
+    },
+    {
+      "Amount": -3818.45,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-27",
+      "Department": "HR",
+      "TransactionID": "T02528"
+    },
+    {
+      "Amount": -4503.3,
+      "Category": "Salary",
+      "DateandTime": "2024-01-16",
+      "Department": "HR",
+      "TransactionID": "T02538"
+    },
+    {
+      "Amount": -4390.6,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-22",
+      "Department": "HR",
+      "TransactionID": "T02544"
+    },
+    {
+      "Amount": -1812.74,
+      "Category": "Training",
+      "DateandTime": "2024-01-26",
+      "Department": "HR",
+      "TransactionID": "T02550"
+    },
+    {
+      "Amount": -4383.2,
+      "Category": "Salary",
+      "DateandTime": "2023-11-30",
+      "Department": "HR",
+      "TransactionID": "T02551"
+    },
+    {
+      "Amount": -249.8,
+      "Category": "Training",
+      "DateandTime": "2024-03-12",
+      "Department": "HR",
+      "TransactionID": "T02561"
+    },
+    {
+      "Amount": -992.02,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-31",
+      "Department": "HR",
+      "TransactionID": "T02568"
+    },
+    {
+      "Amount": -506.74,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-20",
+      "Department": "HR",
+      "TransactionID": "T02572"
+    },
+    {
+      "Amount": -1002.6,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-10",
+      "Department": "HR",
+      "TransactionID": "T02576"
+    },
+    {
+      "Amount": -1420.7,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-02",
+      "Department": "HR",
+      "TransactionID": "T02607"
+    },
+    {
+      "Amount": -3837.8,
+      "Category": "Training",
+      "DateandTime": "2023-05-02",
+      "Department": "HR",
+      "TransactionID": "T02608"
+    },
+    {
+      "Amount": -4180.17,
+      "Category": "Salary",
+      "DateandTime": "2023-09-22",
+      "Department": "HR",
+      "TransactionID": "T02665"
+    },
+    {
+      "Amount": -3151.55,
+      "Category": "Salary",
+      "DateandTime": "2023-09-01",
+      "Department": "HR",
+      "TransactionID": "T02668"
+    },
+    {
+      "Amount": -3014.45,
+      "Category": "Training",
+      "DateandTime": "2023-10-29",
+      "Department": "HR",
+      "TransactionID": "T02678"
+    },
+    {
+      "Amount": -1485.32,
+      "Category": "Training",
+      "DateandTime": "2024-01-16",
+      "Department": "HR",
+      "TransactionID": "T02686"
+    },
+    {
+      "Amount": -1777.78,
+      "Category": "Salary",
+      "DateandTime": "2023-10-07",
+      "Department": "HR",
+      "TransactionID": "T02689"
+    },
+    {
+      "Amount": -939.89,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-10",
+      "Department": "HR",
+      "TransactionID": "T02695"
+    },
+    {
+      "Amount": -3195.69,
+      "Category": "Salary",
+      "DateandTime": "2024-03-26",
+      "Department": "HR",
+      "TransactionID": "T02702"
+    },
+    {
+      "Amount": -2182.47,
+      "Category": "Salary",
+      "DateandTime": "2024-01-15",
+      "Department": "HR",
+      "TransactionID": "T02717"
+    },
+    {
+      "Amount": -4498.5,
+      "Category": "Salary",
+      "DateandTime": "2023-09-21",
+      "Department": "HR",
+      "TransactionID": "T02736"
+    },
+    {
+      "Amount": -1943.69,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-23",
+      "Department": "HR",
+      "TransactionID": "T02765"
+    },
+    {
+      "Amount": -122.27,
+      "Category": "Salary",
+      "DateandTime": "2023-06-26",
+      "Department": "HR",
+      "TransactionID": "T02778"
+    },
+    {
+      "Amount": -241.71,
+      "Category": "Salary",
+      "DateandTime": "2023-06-14",
+      "Department": "HR",
+      "TransactionID": "T02809"
+    },
+    {
+      "Amount": -1554.82,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-23",
+      "Department": "HR",
+      "TransactionID": "T02829"
+    },
+    {
+      "Amount": -3805.64,
+      "Category": "Salary",
+      "DateandTime": "2023-07-11",
+      "Department": "HR",
+      "TransactionID": "T02855"
+    },
+    {
+      "Amount": -4071.92,
+      "Category": "Training",
+      "DateandTime": "2023-06-17",
+      "Department": "HR",
+      "TransactionID": "T02858"
+    },
+    {
+      "Amount": -3579.47,
+      "Category": "Salary",
+      "DateandTime": "2023-12-03",
+      "Department": "HR",
+      "TransactionID": "T02860"
+    },
+    {
+      "Amount": -4515.72,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-31",
+      "Department": "HR",
+      "TransactionID": "T02863"
+    },
+    {
+      "Amount": -4976.14,
+      "Category": "Training",
+      "DateandTime": "2023-04-23",
+      "Department": "HR",
+      "TransactionID": "T02865"
+    },
+    {
+      "Amount": -3122.4,
+      "Category": "Training",
+      "DateandTime": "2023-08-11",
+      "Department": "HR",
+      "TransactionID": "T02867"
+    },
+    {
+      "Amount": -930.13,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-22",
+      "Department": "HR",
+      "TransactionID": "T02885"
+    },
+    {
+      "Amount": -4215.75,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-03",
+      "Department": "HR",
+      "TransactionID": "T02899"
+    },
+    {
+      "Amount": -4021.95,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-23",
+      "Department": "HR",
+      "TransactionID": "T02902"
+    },
+    {
+      "Amount": -3076.86,
+      "Category": "Salary",
+      "DateandTime": "2023-10-17",
+      "Department": "HR",
+      "TransactionID": "T02903"
+    },
+    {
+      "Amount": -1258.34,
+      "Category": "Training",
+      "DateandTime": "2023-10-07",
+      "Department": "HR",
+      "TransactionID": "T02905"
+    },
+    {
+      "Amount": -1662.44,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-17",
+      "Department": "HR",
+      "TransactionID": "T02936"
+    },
+    {
+      "Amount": -1143.37,
+      "Category": "Training",
+      "DateandTime": "2024-03-20",
+      "Department": "HR",
+      "TransactionID": "T02938"
+    },
+    {
+      "Amount": -384.43,
+      "Category": "Training",
+      "DateandTime": "2023-05-05",
+      "Department": "HR",
+      "TransactionID": "T02939"
+    },
+    {
+      "Amount": -2968.41,
+      "Category": "Salary",
+      "DateandTime": "2023-08-20",
+      "Department": "HR",
+      "TransactionID": "T02960"
+    },
+    {
+      "Amount": -4903.61,
+      "Category": "Salary",
+      "DateandTime": "2023-04-29",
+      "Department": "HR",
+      "TransactionID": "T02968"
+    },
+    {
+      "Amount": -2203.74,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-11",
+      "Department": "HR",
+      "TransactionID": "T02972"
+    },
+    {
+      "Amount": -3188.42,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-22",
+      "Department": "HR",
+      "TransactionID": "T02977"
+    },
+    {
+      "Amount": -1717.44,
+      "Category": "Salary",
+      "DateandTime": "2023-10-15",
+      "Department": "HR",
+      "TransactionID": "T02986"
+    },
+    {
+      "Amount": -4647.46,
+      "Category": "Salary",
+      "DateandTime": "2023-06-19",
+      "Department": "HR",
+      "TransactionID": "T02996"
+    },
+    {
+      "Amount": -4907.73,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-25",
+      "Department": "HR",
+      "TransactionID": "T03014"
+    },
+    {
+      "Amount": -4313.6,
+      "Category": "Training",
+      "DateandTime": "2023-08-28",
+      "Department": "HR",
+      "TransactionID": "T03019"
+    },
+    {
+      "Amount": -4648.89,
+      "Category": "Training",
+      "DateandTime": "2023-06-19",
+      "Department": "HR",
+      "TransactionID": "T03022"
+    },
+    {
+      "Amount": -3429.67,
+      "Category": "Salary",
+      "DateandTime": "2023-10-18",
+      "Department": "HR",
+      "TransactionID": "T03026"
+    },
+    {
+      "Amount": -2130.66,
+      "Category": "Salary",
+      "DateandTime": "2024-01-21",
+      "Department": "HR",
+      "TransactionID": "T03045"
+    },
+    {
+      "Amount": -3844.56,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-09",
+      "Department": "HR",
+      "TransactionID": "T03052"
+    },
+    {
+      "Amount": -538.66,
+      "Category": "Salary",
+      "DateandTime": "2023-12-14",
+      "Department": "HR",
+      "TransactionID": "T03059"
+    },
+    {
+      "Amount": -4882.19,
+      "Category": "Training",
+      "DateandTime": "2023-08-03",
+      "Department": "HR",
+      "TransactionID": "T03061"
+    },
+    {
+      "Amount": -1638.8,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-13",
+      "Department": "HR",
+      "TransactionID": "T03078"
+    },
+    {
+      "Amount": -4079.89,
+      "Category": "Salary",
+      "DateandTime": "2024-03-11",
+      "Department": "HR",
+      "TransactionID": "T03080"
+    },
+    {
+      "Amount": -2538.34,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-24",
+      "Department": "HR",
+      "TransactionID": "T03083"
+    },
+    {
+      "Amount": -3631.0,
+      "Category": "Training",
+      "DateandTime": "2024-01-29",
+      "Department": "HR",
+      "TransactionID": "T03095"
+    },
+    {
+      "Amount": -951.37,
+      "Category": "Training",
+      "DateandTime": "2023-09-23",
+      "Department": "HR",
+      "TransactionID": "T03097"
+    },
+    {
+      "Amount": -1519.33,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-01",
+      "Department": "HR",
+      "TransactionID": "T03098"
+    },
+    {
+      "Amount": -2480.08,
+      "Category": "Training",
+      "DateandTime": "2023-12-07",
+      "Department": "HR",
+      "TransactionID": "T03111"
+    },
+    {
+      "Amount": -3459.78,
+      "Category": "Salary",
+      "DateandTime": "2023-08-12",
+      "Department": "HR",
+      "TransactionID": "T03125"
+    },
+    {
+      "Amount": -440.27,
+      "Category": "Salary",
+      "DateandTime": "2023-07-31",
+      "Department": "HR",
+      "TransactionID": "T03133"
+    },
+    {
+      "Amount": -1507.01,
+      "Category": "Salary",
+      "DateandTime": "2024-02-29",
+      "Department": "HR",
+      "TransactionID": "T03160"
+    },
+    {
+      "Amount": -878.65,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-15",
+      "Department": "HR",
+      "TransactionID": "T03172"
+    },
+    {
+      "Amount": -2772.88,
+      "Category": "Salary",
+      "DateandTime": "2024-03-03",
+      "Department": "HR",
+      "TransactionID": "T03181"
+    },
+    {
+      "Amount": -214.95,
+      "Category": "Training",
+      "DateandTime": "2023-05-03",
+      "Department": "HR",
+      "TransactionID": "T03182"
+    },
+    {
+      "Amount": -1841.77,
+      "Category": "Training",
+      "DateandTime": "2023-12-25",
+      "Department": "HR",
+      "TransactionID": "T03188"
+    },
+    {
+      "Amount": -4144.72,
+      "Category": "Training",
+      "DateandTime": "2024-03-22",
+      "Department": "HR",
+      "TransactionID": "T03201"
+    },
+    {
+      "Amount": -4910.93,
+      "Category": "Salary",
+      "DateandTime": "2024-02-26",
+      "Department": "HR",
+      "TransactionID": "T03202"
+    },
+    {
+      "Amount": -2905.04,
+      "Category": "Salary",
+      "DateandTime": "2023-04-23",
+      "Department": "HR",
+      "TransactionID": "T03214"
+    },
+    {
+      "Amount": -4352.8,
+      "Category": "Training",
+      "DateandTime": "2023-08-05",
+      "Department": "HR",
+      "TransactionID": "T03218"
+    },
+    {
+      "Amount": -722.36,
+      "Category": "Salary",
+      "DateandTime": "2023-08-26",
+      "Department": "HR",
+      "TransactionID": "T03228"
+    },
+    {
+      "Amount": -3639.12,
+      "Category": "Training",
+      "DateandTime": "2023-04-09",
+      "Department": "HR",
+      "TransactionID": "T03233"
+    },
+    {
+      "Amount": -4162.2,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-03",
+      "Department": "HR",
+      "TransactionID": "T03234"
+    },
+    {
+      "Amount": -2709.41,
+      "Category": "Salary",
+      "DateandTime": "2023-10-24",
+      "Department": "HR",
+      "TransactionID": "T03237"
+    },
+    {
+      "Amount": -3216.1,
+      "Category": "Training",
+      "DateandTime": "2023-06-17",
+      "Department": "HR",
+      "TransactionID": "T03251"
+    },
+    {
+      "Amount": -3694.77,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-27",
+      "Department": "HR",
+      "TransactionID": "T03258"
+    },
+    {
+      "Amount": -265.6,
+      "Category": "Training",
+      "DateandTime": "2023-08-08",
+      "Department": "HR",
+      "TransactionID": "T03262"
+    },
+    {
+      "Amount": -2394.83,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-16",
+      "Department": "HR",
+      "TransactionID": "T03270"
+    },
+    {
+      "Amount": -1570.11,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-02",
+      "Department": "HR",
+      "TransactionID": "T03282"
+    },
+    {
+      "Amount": -588.51,
+      "Category": "Training",
+      "DateandTime": "2023-06-12",
+      "Department": "HR",
+      "TransactionID": "T03289"
+    },
+    {
+      "Amount": -4532.45,
+      "Category": "Salary",
+      "DateandTime": "2023-07-12",
+      "Department": "HR",
+      "TransactionID": "T03295"
+    },
+    {
+      "Amount": -4490.3,
+      "Category": "Training",
+      "DateandTime": "2023-07-13",
+      "Department": "HR",
+      "TransactionID": "T03300"
+    },
+    {
+      "Amount": -4743.75,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-28",
+      "Department": "HR",
+      "TransactionID": "T03306"
+    },
+    {
+      "Amount": -1708.03,
+      "Category": "Salary",
+      "DateandTime": "2023-08-23",
+      "Department": "HR",
+      "TransactionID": "T03314"
+    },
+    {
+      "Amount": -1565.22,
+      "Category": "Salary",
+      "DateandTime": "2024-02-20",
+      "Department": "HR",
+      "TransactionID": "T03316"
+    },
+    {
+      "Amount": -706.73,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-07",
+      "Department": "HR",
+      "TransactionID": "T03322"
+    },
+    {
+      "Amount": -4668.14,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-21",
+      "Department": "HR",
+      "TransactionID": "T03340"
+    },
+    {
+      "Amount": -2791.95,
+      "Category": "Training",
+      "DateandTime": "2023-10-29",
+      "Department": "HR",
+      "TransactionID": "T03346"
+    },
+    {
+      "Amount": -2084.76,
+      "Category": "Salary",
+      "DateandTime": "2023-10-22",
+      "Department": "HR",
+      "TransactionID": "T03347"
+    },
+    {
+      "Amount": -4935.05,
+      "Category": "Salary",
+      "DateandTime": "2023-08-29",
+      "Department": "HR",
+      "TransactionID": "T03348"
+    },
+    {
+      "Amount": -3960.28,
+      "Category": "Salary",
+      "DateandTime": "2023-07-18",
+      "Department": "HR",
+      "TransactionID": "T03364"
+    },
+    {
+      "Amount": -3060.03,
+      "Category": "Salary",
+      "DateandTime": "2023-12-08",
+      "Department": "HR",
+      "TransactionID": "T03366"
+    },
+    {
+      "Amount": -3821.23,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-25",
+      "Department": "HR",
+      "TransactionID": "T03367"
+    },
+    {
+      "Amount": -1756.12,
+      "Category": "Training",
+      "DateandTime": "2023-12-13",
+      "Department": "HR",
+      "TransactionID": "T03374"
+    },
+    {
+      "Amount": -1590.94,
+      "Category": "Salary",
+      "DateandTime": "2023-12-05",
+      "Department": "HR",
+      "TransactionID": "T03384"
+    },
+    {
+      "Amount": -1866.51,
+      "Category": "Salary",
+      "DateandTime": "2023-04-10",
+      "Department": "HR",
+      "TransactionID": "T03387"
+    },
+    {
+      "Amount": -2401.19,
+      "Category": "Training",
+      "DateandTime": "2023-06-09",
+      "Department": "HR",
+      "TransactionID": "T03400"
+    },
+    {
+      "Amount": -2115.52,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-19",
+      "Department": "HR",
+      "TransactionID": "T03412"
+    },
+    {
+      "Amount": -2988.15,
+      "Category": "Salary",
+      "DateandTime": "2023-11-23",
+      "Department": "HR",
+      "TransactionID": "T03421"
+    },
+    {
+      "Amount": -4064.71,
+      "Category": "Training",
+      "DateandTime": "2024-03-19",
+      "Department": "HR",
+      "TransactionID": "T03427"
+    },
+    {
+      "Amount": -1581.94,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-27",
+      "Department": "HR",
+      "TransactionID": "T03429"
+    },
+    {
+      "Amount": -886.21,
+      "Category": "Salary",
+      "DateandTime": "2023-08-23",
+      "Department": "HR",
+      "TransactionID": "T03445"
+    },
+    {
+      "Amount": -1235.34,
+      "Category": "Salary",
+      "DateandTime": "2023-04-10",
+      "Department": "HR",
+      "TransactionID": "T03468"
+    },
+    {
+      "Amount": -3634.55,
+      "Category": "Training",
+      "DateandTime": "2023-05-10",
+      "Department": "HR",
+      "TransactionID": "T03482"
+    },
+    {
+      "Amount": -4234.61,
+      "Category": "Training",
+      "DateandTime": "2023-10-06",
+      "Department": "HR",
+      "TransactionID": "T03487"
+    },
+    {
+      "Amount": -3427.22,
+      "Category": "Training",
+      "DateandTime": "2023-11-03",
+      "Department": "HR",
+      "TransactionID": "T03488"
+    },
+    {
+      "Amount": -3558.31,
+      "Category": "Training",
+      "DateandTime": "2023-08-15",
+      "Department": "HR",
+      "TransactionID": "T03507"
+    },
+    {
+      "Amount": -2447.03,
+      "Category": "Salary",
+      "DateandTime": "2023-08-07",
+      "Department": "HR",
+      "TransactionID": "T03524"
+    },
+    {
+      "Amount": -832.8,
+      "Category": "Training",
+      "DateandTime": "2023-12-18",
+      "Department": "HR",
+      "TransactionID": "T03527"
+    },
+    {
+      "Amount": -2952.5,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-13",
+      "Department": "HR",
+      "TransactionID": "T03533"
+    },
+    {
+      "Amount": -4906.41,
+      "Category": "Salary",
+      "DateandTime": "2023-04-27",
+      "Department": "HR",
+      "TransactionID": "T03547"
+    },
+    {
+      "Amount": -4122.99,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-10",
+      "Department": "HR",
+      "TransactionID": "T03555"
+    },
+    {
+      "Amount": -4066.55,
+      "Category": "Salary",
+      "DateandTime": "2023-07-26",
+      "Department": "HR",
+      "TransactionID": "T03565"
+    },
+    {
+      "Amount": -1312.67,
+      "Category": "Salary",
+      "DateandTime": "2023-10-01",
+      "Department": "HR",
+      "TransactionID": "T03589"
+    },
+    {
+      "Amount": -4204.88,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-07",
+      "Department": "HR",
+      "TransactionID": "T03595"
+    },
+    {
+      "Amount": -2316.57,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-21",
+      "Department": "HR",
+      "TransactionID": "T03620"
+    },
+    {
+      "Amount": -4716.37,
+      "Category": "Training",
+      "DateandTime": "2023-11-29",
+      "Department": "HR",
+      "TransactionID": "T03640"
+    },
+    {
+      "Amount": -3352.53,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-02",
+      "Department": "HR",
+      "TransactionID": "T03646"
+    },
+    {
+      "Amount": -1043.67,
+      "Category": "Training",
+      "DateandTime": "2023-05-25",
+      "Department": "HR",
+      "TransactionID": "T03665"
+    },
+    {
+      "Amount": -2879.21,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-29",
+      "Department": "HR",
+      "TransactionID": "T03684"
+    },
+    {
+      "Amount": -4430.06,
+      "Category": "Training",
+      "DateandTime": "2023-05-01",
+      "Department": "HR",
+      "TransactionID": "T03688"
+    },
+    {
+      "Amount": -2444.56,
+      "Category": "Training",
+      "DateandTime": "2024-02-09",
+      "Department": "HR",
+      "TransactionID": "T03689"
+    },
+    {
+      "Amount": -2052.69,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-18",
+      "Department": "HR",
+      "TransactionID": "T03705"
+    },
+    {
+      "Amount": -4535.02,
+      "Category": "Salary",
+      "DateandTime": "2023-10-02",
+      "Department": "HR",
+      "TransactionID": "T03717"
+    },
+    {
+      "Amount": -1300.54,
+      "Category": "Training",
+      "DateandTime": "2023-10-22",
+      "Department": "HR",
+      "TransactionID": "T03718"
+    },
+    {
+      "Amount": -3319.02,
+      "Category": "Training",
+      "DateandTime": "2023-04-28",
+      "Department": "HR",
+      "TransactionID": "T03734"
+    },
+    {
+      "Amount": -1598.35,
+      "Category": "Salary",
+      "DateandTime": "2023-10-26",
+      "Department": "HR",
+      "TransactionID": "T03735"
+    },
+    {
+      "Amount": -3651.8,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-25",
+      "Department": "HR",
+      "TransactionID": "T03747"
+    },
+    {
+      "Amount": -874.07,
+      "Category": "Training",
+      "DateandTime": "2024-01-30",
+      "Department": "HR",
+      "TransactionID": "T03750"
+    },
+    {
+      "Amount": -2110.04,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-21",
+      "Department": "HR",
+      "TransactionID": "T03757"
+    },
+    {
+      "Amount": -532.94,
+      "Category": "Salary",
+      "DateandTime": "2024-02-04",
+      "Department": "HR",
+      "TransactionID": "T03762"
+    },
+    {
+      "Amount": -1036.75,
+      "Category": "Training",
+      "DateandTime": "2023-12-01",
+      "Department": "HR",
+      "TransactionID": "T03772"
+    },
+    {
+      "Amount": -4171.4,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-18",
+      "Department": "HR",
+      "TransactionID": "T03779"
+    },
+    {
+      "Amount": -912.84,
+      "Category": "Salary",
+      "DateandTime": "2023-05-25",
+      "Department": "HR",
+      "TransactionID": "T03814"
+    },
+    {
+      "Amount": -432.51,
+      "Category": "Training",
+      "DateandTime": "2024-01-26",
+      "Department": "HR",
+      "TransactionID": "T03815"
+    },
+    {
+      "Amount": -3382.14,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-14",
+      "Department": "HR",
+      "TransactionID": "T03823"
+    },
+    {
+      "Amount": -996.59,
+      "Category": "Training",
+      "DateandTime": "2023-09-29",
+      "Department": "HR",
+      "TransactionID": "T03827"
+    },
+    {
+      "Amount": -4492.39,
+      "Category": "Training",
+      "DateandTime": "2023-05-29",
+      "Department": "HR",
+      "TransactionID": "T03836"
+    },
+    {
+      "Amount": -3951.26,
+      "Category": "Salary",
+      "DateandTime": "2023-04-03",
+      "Department": "HR",
+      "TransactionID": "T03837"
+    },
+    {
+      "Amount": -1258.78,
+      "Category": "Salary",
+      "DateandTime": "2023-04-17",
+      "Department": "HR",
+      "TransactionID": "T03871"
+    },
+    {
+      "Amount": -3500.47,
+      "Category": "Salary",
+      "DateandTime": "2023-10-04",
+      "Department": "HR",
+      "TransactionID": "T03897"
+    },
+    {
+      "Amount": -4864.36,
+      "Category": "Salary",
+      "DateandTime": "2023-05-03",
+      "Department": "HR",
+      "TransactionID": "T03919"
+    },
+    {
+      "Amount": -3615.22,
+      "Category": "Salary",
+      "DateandTime": "2023-08-03",
+      "Department": "HR",
+      "TransactionID": "T03933"
+    },
+    {
+      "Amount": -4540.51,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-11",
+      "Department": "HR",
+      "TransactionID": "T03942"
+    },
+    {
+      "Amount": -3062.88,
+      "Category": "Training",
+      "DateandTime": "2023-11-06",
+      "Department": "HR",
+      "TransactionID": "T03949"
+    },
+    {
+      "Amount": -4950.87,
+      "Category": "Training",
+      "DateandTime": "2023-11-01",
+      "Department": "HR",
+      "TransactionID": "T03951"
+    },
+    {
+      "Amount": -2119.49,
+      "Category": "Salary",
+      "DateandTime": "2023-08-10",
+      "Department": "HR",
+      "TransactionID": "T03959"
+    },
+    {
+      "Amount": -4829.94,
+      "Category": "Training",
+      "DateandTime": "2023-10-28",
+      "Department": "HR",
+      "TransactionID": "T03987"
+    },
+    {
+      "Amount": -2448.65,
+      "Category": "Salary",
+      "DateandTime": "2023-05-04",
+      "Department": "HR",
+      "TransactionID": "T04022"
+    },
+    {
+      "Amount": -1844.85,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-09",
+      "Department": "HR",
+      "TransactionID": "T04044"
+    },
+    {
+      "Amount": -4271.97,
+      "Category": "Training",
+      "DateandTime": "2023-09-15",
+      "Department": "HR",
+      "TransactionID": "T04046"
+    },
+    {
+      "Amount": -117.17,
+      "Category": "Training",
+      "DateandTime": "2023-09-29",
+      "Department": "HR",
+      "TransactionID": "T04056"
+    },
+    {
+      "Amount": -1694.39,
+      "Category": "Salary",
+      "DateandTime": "2023-11-02",
+      "Department": "HR",
+      "TransactionID": "T04061"
+    },
+    {
+      "Amount": -1839.89,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-31",
+      "Department": "HR",
+      "TransactionID": "T04065"
+    },
+    {
+      "Amount": -3383.53,
+      "Category": "Training",
+      "DateandTime": "2023-05-17",
+      "Department": "HR",
+      "TransactionID": "T04077"
+    },
+    {
+      "Amount": -244.56,
+      "Category": "Training",
+      "DateandTime": "2023-12-20",
+      "Department": "HR",
+      "TransactionID": "T04079"
+    },
+    {
+      "Amount": -1224.96,
+      "Category": "Salary",
+      "DateandTime": "2023-07-01",
+      "Department": "HR",
+      "TransactionID": "T04109"
+    },
+    {
+      "Amount": -1185.46,
+      "Category": "Salary",
+      "DateandTime": "2023-07-13",
+      "Department": "HR",
+      "TransactionID": "T04119"
+    },
+    {
+      "Amount": -4446.21,
+      "Category": "Salary",
+      "DateandTime": "2023-05-05",
+      "Department": "HR",
+      "TransactionID": "T04127"
+    },
+    {
+      "Amount": -132.17,
+      "Category": "Salary",
+      "DateandTime": "2023-11-14",
+      "Department": "HR",
+      "TransactionID": "T04130"
+    },
+    {
+      "Amount": -404.12,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-21",
+      "Department": "HR",
+      "TransactionID": "T04137"
+    },
+    {
+      "Amount": -3223.04,
+      "Category": "Training",
+      "DateandTime": "2024-01-11",
+      "Department": "HR",
+      "TransactionID": "T04142"
+    },
+    {
+      "Amount": -3571.62,
+      "Category": "Training",
+      "DateandTime": "2024-03-06",
+      "Department": "HR",
+      "TransactionID": "T04145"
+    },
+    {
+      "Amount": -2131.03,
+      "Category": "Training",
+      "DateandTime": "2023-05-18",
+      "Department": "HR",
+      "TransactionID": "T04154"
+    },
+    {
+      "Amount": -1520.87,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-03",
+      "Department": "HR",
+      "TransactionID": "T04156"
+    },
+    {
+      "Amount": -2563.8,
+      "Category": "Training",
+      "DateandTime": "2023-08-28",
+      "Department": "HR",
+      "TransactionID": "T04158"
+    },
+    {
+      "Amount": -3507.82,
+      "Category": "Salary",
+      "DateandTime": "2023-12-06",
+      "Department": "HR",
+      "TransactionID": "T04160"
+    },
+    {
+      "Amount": -1903.65,
+      "Category": "Training",
+      "DateandTime": "2023-06-09",
+      "Department": "HR",
+      "TransactionID": "T04168"
+    },
+    {
+      "Amount": -3591.23,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-28",
+      "Department": "HR",
+      "TransactionID": "T04177"
+    },
+    {
+      "Amount": -2961.11,
+      "Category": "Training",
+      "DateandTime": "2023-12-15",
+      "Department": "HR",
+      "TransactionID": "T04189"
+    },
+    {
+      "Amount": -1011.85,
+      "Category": "Training",
+      "DateandTime": "2024-01-21",
+      "Department": "HR",
+      "TransactionID": "T04206"
+    },
+    {
+      "Amount": -3077.97,
+      "Category": "Training",
+      "DateandTime": "2024-02-01",
+      "Department": "HR",
+      "TransactionID": "T04211"
+    },
+    {
+      "Amount": -192.66,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-12",
+      "Department": "HR",
+      "TransactionID": "T04240"
+    },
+    {
+      "Amount": -2171.89,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-24",
+      "Department": "HR",
+      "TransactionID": "T04256"
+    },
+    {
+      "Amount": -1106.83,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-10",
+      "Department": "HR",
+      "TransactionID": "T04262"
+    },
+    {
+      "Amount": -1546.85,
+      "Category": "Salary",
+      "DateandTime": "2024-01-30",
+      "Department": "HR",
+      "TransactionID": "T04275"
+    },
+    {
+      "Amount": -3511.77,
+      "Category": "Salary",
+      "DateandTime": "2023-07-13",
+      "Department": "HR",
+      "TransactionID": "T04277"
+    },
+    {
+      "Amount": -2980.54,
+      "Category": "Salary",
+      "DateandTime": "2023-06-14",
+      "Department": "HR",
+      "TransactionID": "T04281"
+    },
+    {
+      "Amount": -1500.37,
+      "Category": "Salary",
+      "DateandTime": "2023-08-25",
+      "Department": "HR",
+      "TransactionID": "T04305"
+    },
+    {
+      "Amount": -3299.7,
+      "Category": "Training",
+      "DateandTime": "2023-11-25",
+      "Department": "HR",
+      "TransactionID": "T04306"
+    },
+    {
+      "Amount": -1368.12,
+      "Category": "Training",
+      "DateandTime": "2023-10-31",
+      "Department": "HR",
+      "TransactionID": "T04314"
+    },
+    {
+      "Amount": -1712.99,
+      "Category": "Training",
+      "DateandTime": "2023-09-26",
+      "Department": "HR",
+      "TransactionID": "T04344"
+    },
+    {
+      "Amount": -1738.97,
+      "Category": "Training",
+      "DateandTime": "2023-12-01",
+      "Department": "HR",
+      "TransactionID": "T04348"
+    },
+    {
+      "Amount": -438.89,
+      "Category": "Salary",
+      "DateandTime": "2024-03-26",
+      "Department": "HR",
+      "TransactionID": "T04353"
+    },
+    {
+      "Amount": -4204.89,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-21",
+      "Department": "HR",
+      "TransactionID": "T04354"
+    },
+    {
+      "Amount": -3867.97,
+      "Category": "Training",
+      "DateandTime": "2023-11-23",
+      "Department": "HR",
+      "TransactionID": "T04358"
+    },
+    {
+      "Amount": -2967.88,
+      "Category": "Training",
+      "DateandTime": "2023-12-25",
+      "Department": "HR",
+      "TransactionID": "T04360"
+    },
+    {
+      "Amount": -3086.26,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-27",
+      "Department": "HR",
+      "TransactionID": "T04380"
+    },
+    {
+      "Amount": -4461.04,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-01",
+      "Department": "HR",
+      "TransactionID": "T04385"
+    },
+    {
+      "Amount": -3349.78,
+      "Category": "Training",
+      "DateandTime": "2023-04-01",
+      "Department": "HR",
+      "TransactionID": "T04387"
+    },
+    {
+      "Amount": -2488.29,
+      "Category": "Training",
+      "DateandTime": "2023-12-05",
+      "Department": "HR",
+      "TransactionID": "T04391"
+    },
+    {
+      "Amount": -3768.91,
+      "Category": "Salary",
+      "DateandTime": "2023-09-24",
+      "Department": "HR",
+      "TransactionID": "T04419"
+    },
+    {
+      "Amount": -417.43,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-26",
+      "Department": "HR",
+      "TransactionID": "T04424"
+    },
+    {
+      "Amount": -3773.33,
+      "Category": "Training",
+      "DateandTime": "2023-08-11",
+      "Department": "HR",
+      "TransactionID": "T04437"
+    },
+    {
+      "Amount": -1193.42,
+      "Category": "Training",
+      "DateandTime": "2024-02-26",
+      "Department": "HR",
+      "TransactionID": "T04441"
+    },
+    {
+      "Amount": -4652.91,
+      "Category": "Training",
+      "DateandTime": "2023-04-05",
+      "Department": "HR",
+      "TransactionID": "T04454"
+    },
+    {
+      "Amount": -2051.17,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-08",
+      "Department": "HR",
+      "TransactionID": "T04462"
+    },
+    {
+      "Amount": -215.79,
+      "Category": "Salary",
+      "DateandTime": "2023-04-16",
+      "Department": "HR",
+      "TransactionID": "T04468"
+    },
+    {
+      "Amount": -1493.13,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-11",
+      "Department": "HR",
+      "TransactionID": "T04484"
+    },
+    {
+      "Amount": -970.58,
+      "Category": "Salary",
+      "DateandTime": "2023-07-25",
+      "Department": "HR",
+      "TransactionID": "T04487"
+    },
+    {
+      "Amount": -4436.08,
+      "Category": "Training",
+      "DateandTime": "2023-10-28",
+      "Department": "HR",
+      "TransactionID": "T04498"
+    },
+    {
+      "Amount": -1550.03,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-04",
+      "Department": "HR",
+      "TransactionID": "T04504"
+    },
+    {
+      "Amount": -377.93,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-09",
+      "Department": "HR",
+      "TransactionID": "T04513"
+    },
+    {
+      "Amount": -4320.04,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-12",
+      "Department": "HR",
+      "TransactionID": "T04528"
+    },
+    {
+      "Amount": -1743.68,
+      "Category": "Salary",
+      "DateandTime": "2023-05-25",
+      "Department": "HR",
+      "TransactionID": "T04534"
+    },
+    {
+      "Amount": -4309.63,
+      "Category": "Salary",
+      "DateandTime": "2023-05-27",
+      "Department": "HR",
+      "TransactionID": "T04539"
+    },
+    {
+      "Amount": -2682.0,
+      "Category": "Training",
+      "DateandTime": "2024-01-05",
+      "Department": "HR",
+      "TransactionID": "T04540"
+    },
+    {
+      "Amount": -2158.19,
+      "Category": "Training",
+      "DateandTime": "2023-08-14",
+      "Department": "HR",
+      "TransactionID": "T04541"
+    },
+    {
+      "Amount": -3454.9,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-24",
+      "Department": "HR",
+      "TransactionID": "T04547"
+    },
+    {
+      "Amount": -3238.37,
+      "Category": "Training",
+      "DateandTime": "2023-05-18",
+      "Department": "HR",
+      "TransactionID": "T04560"
+    },
+    {
+      "Amount": -3909.07,
+      "Category": "Training",
+      "DateandTime": "2024-02-21",
+      "Department": "HR",
+      "TransactionID": "T04563"
+    },
+    {
+      "Amount": -2440.05,
+      "Category": "Salary",
+      "DateandTime": "2024-02-26",
+      "Department": "HR",
+      "TransactionID": "T04567"
+    },
+    {
+      "Amount": -4705.92,
+      "Category": "Training",
+      "DateandTime": "2023-06-22",
+      "Department": "HR",
+      "TransactionID": "T04571"
+    },
+    {
+      "Amount": -946.46,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-16",
+      "Department": "HR",
+      "TransactionID": "T04585"
+    },
+    {
+      "Amount": -4459.15,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-21",
+      "Department": "HR",
+      "TransactionID": "T04607"
+    },
+    {
+      "Amount": -3281.61,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-02",
+      "Department": "HR",
+      "TransactionID": "T04609"
+    },
+    {
+      "Amount": -1081.4,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-12",
+      "Department": "HR",
+      "TransactionID": "T04618"
+    },
+    {
+      "Amount": -3728.66,
+      "Category": "Training",
+      "DateandTime": "2023-10-13",
+      "Department": "HR",
+      "TransactionID": "T04623"
+    },
+    {
+      "Amount": -2542.03,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-16",
+      "Department": "HR",
+      "TransactionID": "T04626"
+    },
+    {
+      "Amount": -1425.76,
+      "Category": "Salary",
+      "DateandTime": "2024-01-14",
+      "Department": "HR",
+      "TransactionID": "T04627"
+    },
+    {
+      "Amount": -1316.19,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-15",
+      "Department": "HR",
+      "TransactionID": "T04632"
+    },
+    {
+      "Amount": -3577.96,
+      "Category": "Salary",
+      "DateandTime": "2023-10-18",
+      "Department": "HR",
+      "TransactionID": "T04636"
+    },
+    {
+      "Amount": -687.19,
+      "Category": "Salary",
+      "DateandTime": "2023-09-18",
+      "Department": "HR",
+      "TransactionID": "T04646"
+    },
+    {
+      "Amount": -4397.94,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-07",
+      "Department": "HR",
+      "TransactionID": "T04653"
+    },
+    {
+      "Amount": -2550.22,
+      "Category": "Training",
+      "DateandTime": "2024-02-01",
+      "Department": "HR",
+      "TransactionID": "T04671"
+    },
+    {
+      "Amount": -4692.76,
+      "Category": "Training",
+      "DateandTime": "2023-12-10",
+      "Department": "HR",
+      "TransactionID": "T04694"
+    },
+    {
+      "Amount": -2904.39,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-09",
+      "Department": "HR",
+      "TransactionID": "T04697"
+    },
+    {
+      "Amount": -1380.29,
+      "Category": "Training",
+      "DateandTime": "2023-05-18",
+      "Department": "HR",
+      "TransactionID": "T04705"
+    },
+    {
+      "Amount": -3180.65,
+      "Category": "Training",
+      "DateandTime": "2023-07-13",
+      "Department": "HR",
+      "TransactionID": "T04712"
+    },
+    {
+      "Amount": -3998.24,
+      "Category": "Salary",
+      "DateandTime": "2023-08-25",
+      "Department": "HR",
+      "TransactionID": "T04733"
+    },
+    {
+      "Amount": -2869.6,
+      "Category": "Training",
+      "DateandTime": "2023-08-21",
+      "Department": "HR",
+      "TransactionID": "T04734"
+    },
+    {
+      "Amount": -1910.09,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-08",
+      "Department": "HR",
+      "TransactionID": "T04740"
+    },
+    {
+      "Amount": -4259.85,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-31",
+      "Department": "HR",
+      "TransactionID": "T04744"
+    },
+    {
+      "Amount": -4631.74,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-28",
+      "Department": "HR",
+      "TransactionID": "T04757"
+    },
+    {
+      "Amount": -2666.89,
+      "Category": "Salary",
+      "DateandTime": "2023-08-14",
+      "Department": "HR",
+      "TransactionID": "T04786"
+    },
+    {
+      "Amount": -3694.31,
+      "Category": "Training",
+      "DateandTime": "2024-03-05",
+      "Department": "HR",
+      "TransactionID": "T04792"
+    },
+    {
+      "Amount": -917.98,
+      "Category": "Salary",
+      "DateandTime": "2023-08-17",
+      "Department": "HR",
+      "TransactionID": "T04797"
+    },
+    {
+      "Amount": -4475.62,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-05",
+      "Department": "HR",
+      "TransactionID": "T04805"
+    },
+    {
+      "Amount": -648.41,
+      "Category": "Training",
+      "DateandTime": "2023-04-02",
+      "Department": "HR",
+      "TransactionID": "T04808"
+    },
+    {
+      "Amount": -3272.17,
+      "Category": "Training",
+      "DateandTime": "2023-11-12",
+      "Department": "HR",
+      "TransactionID": "T04824"
+    },
+    {
+      "Amount": -3533.87,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-01",
+      "Department": "HR",
+      "TransactionID": "T04831"
+    },
+    {
+      "Amount": -1157.97,
+      "Category": "Salary",
+      "DateandTime": "2023-05-04",
+      "Department": "HR",
+      "TransactionID": "T04837"
+    },
+    {
+      "Amount": -359.21,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-13",
+      "Department": "HR",
+      "TransactionID": "T04839"
+    },
+    {
+      "Amount": -531.91,
+      "Category": "Salary",
+      "DateandTime": "2023-05-19",
+      "Department": "HR",
+      "TransactionID": "T04840"
+    },
+    {
+      "Amount": -2261.31,
+      "Category": "Salary",
+      "DateandTime": "2023-07-31",
+      "Department": "HR",
+      "TransactionID": "T04849"
+    },
+    {
+      "Amount": -2159.01,
+      "Category": "Training",
+      "DateandTime": "2023-11-15",
+      "Department": "HR",
+      "TransactionID": "T04859"
+    },
+    {
+      "Amount": -2724.75,
+      "Category": "Salary",
+      "DateandTime": "2023-10-26",
+      "Department": "HR",
+      "TransactionID": "T04862"
+    },
+    {
+      "Amount": -1727.08,
+      "Category": "Training",
+      "DateandTime": "2023-10-04",
+      "Department": "HR",
+      "TransactionID": "T04866"
+    },
+    {
+      "Amount": -4491.58,
+      "Category": "Training",
+      "DateandTime": "2024-02-13",
+      "Department": "HR",
+      "TransactionID": "T04868"
+    },
+    {
+      "Amount": -4275.1,
+      "Category": "Training",
+      "DateandTime": "2023-04-11",
+      "Department": "HR",
+      "TransactionID": "T04872"
+    },
+    {
+      "Amount": -420.88,
+      "Category": "Salary",
+      "DateandTime": "2024-03-21",
+      "Department": "HR",
+      "TransactionID": "T04873"
+    },
+    {
+      "Amount": -4263.7,
+      "Category": "Training",
+      "DateandTime": "2024-01-07",
+      "Department": "HR",
+      "TransactionID": "T04889"
+    },
+    {
+      "Amount": -4467.07,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-04",
+      "Department": "HR",
+      "TransactionID": "T04892"
+    },
+    {
+      "Amount": -4655.72,
+      "Category": "Salary",
+      "DateandTime": "2023-06-07",
+      "Department": "HR",
+      "TransactionID": "T04904"
+    },
+    {
+      "Amount": -1827.25,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-31",
+      "Department": "HR",
+      "TransactionID": "T04914"
+    },
+    {
+      "Amount": -4550.71,
+      "Category": "Training",
+      "DateandTime": "2023-10-14",
+      "Department": "HR",
+      "TransactionID": "T04932"
+    },
+    {
+      "Amount": -2986.04,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-05",
+      "Department": "HR",
+      "TransactionID": "T04934"
+    },
+    {
+      "Amount": -3087.66,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-28",
+      "Department": "HR",
+      "TransactionID": "T04949"
+    },
+    {
+      "Amount": -2359.54,
+      "Category": "Training",
+      "DateandTime": "2024-01-05",
+      "Department": "HR",
+      "TransactionID": "T04963"
+    },
+    {
+      "Amount": -4870.18,
+      "Category": "Salary",
+      "DateandTime": "2023-11-22",
+      "Department": "HR",
+      "TransactionID": "T04966"
+    },
+    {
+      "Amount": -1779.94,
+      "Category": "Salary",
+      "DateandTime": "2024-01-27",
+      "Department": "HR",
+      "TransactionID": "T04972"
+    },
+    {
+      "Amount": -3490.56,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-26",
+      "Department": "HR",
+      "TransactionID": "T04991"
+    },
+    {
+      "Amount": -1416.15,
+      "Category": "Salary",
+      "DateandTime": "2023-10-13",
+      "Department": "HR",
+      "TransactionID": "T05015"
+    },
+    {
+      "Amount": -1870.19,
+      "Category": "Salary",
+      "DateandTime": "2023-07-17",
+      "Department": "HR",
+      "TransactionID": "T05016"
+    },
+    {
+      "Amount": -3024.2,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-14",
+      "Department": "HR",
+      "TransactionID": "T05028"
+    },
+    {
+      "Amount": -4248.78,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-12",
+      "Department": "HR",
+      "TransactionID": "T05045"
+    },
+    {
+      "Amount": -233.23,
+      "Category": "Training",
+      "DateandTime": "2023-08-16",
+      "Department": "HR",
+      "TransactionID": "T05053"
+    },
+    {
+      "Amount": -2977.03,
+      "Category": "Training",
+      "DateandTime": "2023-06-16",
+      "Department": "HR",
+      "TransactionID": "T05064"
+    },
+    {
+      "Amount": -4408.36,
+      "Category": "Training",
+      "DateandTime": "2023-06-04",
+      "Department": "HR",
+      "TransactionID": "T05065"
+    },
+    {
+      "Amount": -3566.79,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-19",
+      "Department": "HR",
+      "TransactionID": "T05069"
+    },
+    {
+      "Amount": -2076.0,
+      "Category": "Training",
+      "DateandTime": "2023-07-29",
+      "Department": "HR",
+      "TransactionID": "T05083"
+    },
+    {
+      "Amount": -368.98,
+      "Category": "Training",
+      "DateandTime": "2023-08-11",
+      "Department": "HR",
+      "TransactionID": "T05130"
+    },
+    {
+      "Amount": -3182.56,
+      "Category": "Training",
+      "DateandTime": "2023-06-19",
+      "Department": "HR",
+      "TransactionID": "T05133"
+    },
+    {
+      "Amount": -4545.25,
+      "Category": "Salary",
+      "DateandTime": "2023-08-04",
+      "Department": "HR",
+      "TransactionID": "T05137"
+    },
+    {
+      "Amount": -2805.77,
+      "Category": "Salary",
+      "DateandTime": "2023-05-23",
+      "Department": "HR",
+      "TransactionID": "T05149"
+    },
+    {
+      "Amount": -3528.57,
+      "Category": "Training",
+      "DateandTime": "2023-12-28",
+      "Department": "HR",
+      "TransactionID": "T05150"
+    },
+    {
+      "Amount": -1306.91,
+      "Category": "Salary",
+      "DateandTime": "2023-08-07",
+      "Department": "HR",
+      "TransactionID": "T05158"
+    },
+    {
+      "Amount": -4093.39,
+      "Category": "Training",
+      "DateandTime": "2023-07-06",
+      "Department": "HR",
+      "TransactionID": "T05180"
+    },
+    {
+      "Amount": -1490.54,
+      "Category": "Salary",
+      "DateandTime": "2023-05-30",
+      "Department": "HR",
+      "TransactionID": "T05185"
+    },
+    {
+      "Amount": -1633.91,
+      "Category": "Training",
+      "DateandTime": "2024-03-08",
+      "Department": "HR",
+      "TransactionID": "T05191"
+    },
+    {
+      "Amount": -4383.5,
+      "Category": "Salary",
+      "DateandTime": "2023-09-15",
+      "Department": "HR",
+      "TransactionID": "T05193"
+    },
+    {
+      "Amount": -3789.62,
+      "Category": "Salary",
+      "DateandTime": "2023-05-21",
+      "Department": "HR",
+      "TransactionID": "T05204"
+    },
+    {
+      "Amount": -4047.72,
+      "Category": "Training",
+      "DateandTime": "2023-11-14",
+      "Department": "HR",
+      "TransactionID": "T05206"
+    },
+    {
+      "Amount": -1668.52,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-02",
+      "Department": "HR",
+      "TransactionID": "T05218"
+    },
+    {
+      "Amount": -813.49,
+      "Category": "Salary",
+      "DateandTime": "2023-07-21",
+      "Department": "HR",
+      "TransactionID": "T05235"
+    },
+    {
+      "Amount": -4003.4,
+      "Category": "Training",
+      "DateandTime": "2023-04-27",
+      "Department": "HR",
+      "TransactionID": "T05246"
+    },
+    {
+      "Amount": -758.88,
+      "Category": "Salary",
+      "DateandTime": "2023-04-25",
+      "Department": "HR",
+      "TransactionID": "T05254"
+    },
+    {
+      "Amount": -1351.78,
+      "Category": "Training",
+      "DateandTime": "2023-10-04",
+      "Department": "HR",
+      "TransactionID": "T05261"
+    },
+    {
+      "Amount": -3154.27,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-20",
+      "Department": "HR",
+      "TransactionID": "T05279"
+    },
+    {
+      "Amount": -3331.7,
+      "Category": "Salary",
+      "DateandTime": "2024-01-08",
+      "Department": "HR",
+      "TransactionID": "T05291"
+    },
+    {
+      "Amount": -2179.01,
+      "Category": "Training",
+      "DateandTime": "2023-05-24",
+      "Department": "HR",
+      "TransactionID": "T05302"
+    },
+    {
+      "Amount": -128.9,
+      "Category": "Salary",
+      "DateandTime": "2023-10-07",
+      "Department": "HR",
+      "TransactionID": "T05310"
+    },
+    {
+      "Amount": -760.31,
+      "Category": "Salary",
+      "DateandTime": "2023-08-23",
+      "Department": "HR",
+      "TransactionID": "T05328"
+    },
+    {
+      "Amount": -2687.34,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-28",
+      "Department": "HR",
+      "TransactionID": "T05329"
+    },
+    {
+      "Amount": -4002.58,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-24",
+      "Department": "HR",
+      "TransactionID": "T05383"
+    },
+    {
+      "Amount": -421.12,
+      "Category": "Training",
+      "DateandTime": "2023-08-27",
+      "Department": "HR",
+      "TransactionID": "T05384"
+    },
+    {
+      "Amount": -1544.13,
+      "Category": "Training",
+      "DateandTime": "2023-06-11",
+      "Department": "HR",
+      "TransactionID": "T05388"
+    },
+    {
+      "Amount": -2252.6,
+      "Category": "Training",
+      "DateandTime": "2023-11-10",
+      "Department": "HR",
+      "TransactionID": "T05408"
+    },
+    {
+      "Amount": -864.06,
+      "Category": "Training",
+      "DateandTime": "2023-11-11",
+      "Department": "HR",
+      "TransactionID": "T05427"
+    },
+    {
+      "Amount": -2740.61,
+      "Category": "Salary",
+      "DateandTime": "2023-08-23",
+      "Department": "HR",
+      "TransactionID": "T05433"
+    },
+    {
+      "Amount": -1127.56,
+      "Category": "Training",
+      "DateandTime": "2024-03-04",
+      "Department": "HR",
+      "TransactionID": "T05438"
+    },
+    {
+      "Amount": -1413.94,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-14",
+      "Department": "HR",
+      "TransactionID": "T05452"
+    },
+    {
+      "Amount": -3058.71,
+      "Category": "Training",
+      "DateandTime": "2023-12-04",
+      "Department": "HR",
+      "TransactionID": "T05458"
+    },
+    {
+      "Amount": -1896.6,
+      "Category": "Training",
+      "DateandTime": "2023-11-01",
+      "Department": "HR",
+      "TransactionID": "T05482"
+    },
+    {
+      "Amount": -342.76,
+      "Category": "Salary",
+      "DateandTime": "2023-11-20",
+      "Department": "HR",
+      "TransactionID": "T05491"
+    },
+    {
+      "Amount": -4660.46,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-20",
+      "Department": "HR",
+      "TransactionID": "T05507"
+    },
+    {
+      "Amount": -2883.57,
+      "Category": "Salary",
+      "DateandTime": "2023-10-20",
+      "Department": "HR",
+      "TransactionID": "T05510"
+    },
+    {
+      "Amount": -1561.44,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-15",
+      "Department": "HR",
+      "TransactionID": "T05524"
+    },
+    {
+      "Amount": -3647.42,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-14",
+      "Department": "HR",
+      "TransactionID": "T05547"
+    },
+    {
+      "Amount": -3353.64,
+      "Category": "Training",
+      "DateandTime": "2023-11-08",
+      "Department": "HR",
+      "TransactionID": "T05553"
+    },
+    {
+      "Amount": -2371.59,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-28",
+      "Department": "HR",
+      "TransactionID": "T05557"
+    },
+    {
+      "Amount": -1716.64,
+      "Category": "Salary",
+      "DateandTime": "2023-10-01",
+      "Department": "HR",
+      "TransactionID": "T05567"
+    },
+    {
+      "Amount": -649.46,
+      "Category": "Training",
+      "DateandTime": "2023-10-23",
+      "Department": "HR",
+      "TransactionID": "T05607"
+    },
+    {
+      "Amount": -4280.2,
+      "Category": "Recruitment",
+      "DateandTime": "2023-09-10",
+      "Department": "HR",
+      "TransactionID": "T05608"
+    },
+    {
+      "Amount": -2860.23,
+      "Category": "Salary",
+      "DateandTime": "2023-09-11",
+      "Department": "HR",
+      "TransactionID": "T05612"
+    },
+    {
+      "Amount": -4156.97,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-24",
+      "Department": "HR",
+      "TransactionID": "T05618"
+    },
+    {
+      "Amount": -1159.22,
+      "Category": "Salary",
+      "DateandTime": "2023-07-28",
+      "Department": "HR",
+      "TransactionID": "T05636"
+    },
+    {
+      "Amount": -215.44,
+      "Category": "Training",
+      "DateandTime": "2023-09-21",
+      "Department": "HR",
+      "TransactionID": "T05643"
+    },
+    {
+      "Amount": -3842.24,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-11",
+      "Department": "HR",
+      "TransactionID": "T05660"
+    },
+    {
+      "Amount": -4460.69,
+      "Category": "Salary",
+      "DateandTime": "2023-12-13",
+      "Department": "HR",
+      "TransactionID": "T05665"
+    },
+    {
+      "Amount": -4014.95,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-23",
+      "Department": "HR",
+      "TransactionID": "T05672"
+    },
+    {
+      "Amount": -2796.09,
+      "Category": "Training",
+      "DateandTime": "2023-09-18",
+      "Department": "HR",
+      "TransactionID": "T05675"
+    },
+    {
+      "Amount": -3982.81,
+      "Category": "Training",
+      "DateandTime": "2023-04-08",
+      "Department": "HR",
+      "TransactionID": "T05699"
+    },
+    {
+      "Amount": -4131.47,
+      "Category": "Salary",
+      "DateandTime": "2023-05-12",
+      "Department": "HR",
+      "TransactionID": "T05709"
+    },
+    {
+      "Amount": -303.39,
+      "Category": "Training",
+      "DateandTime": "2024-03-04",
+      "Department": "HR",
+      "TransactionID": "T05712"
+    },
+    {
+      "Amount": -4507.44,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-08",
+      "Department": "HR",
+      "TransactionID": "T05747"
+    },
+    {
+      "Amount": -2257.38,
+      "Category": "Training",
+      "DateandTime": "2023-10-08",
+      "Department": "HR",
+      "TransactionID": "T05755"
+    },
+    {
+      "Amount": -2178.88,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-06",
+      "Department": "HR",
+      "TransactionID": "T05760"
+    },
+    {
+      "Amount": -1136.97,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-14",
+      "Department": "HR",
+      "TransactionID": "T05761"
+    },
+    {
+      "Amount": -2634.68,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-30",
+      "Department": "HR",
+      "TransactionID": "T05762"
+    },
+    {
+      "Amount": -1702.04,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-04",
+      "Department": "HR",
+      "TransactionID": "T05765"
+    },
+    {
+      "Amount": -375.48,
+      "Category": "Training",
+      "DateandTime": "2024-02-11",
+      "Department": "HR",
+      "TransactionID": "T05771"
+    },
+    {
+      "Amount": -2331.8,
+      "Category": "Salary",
+      "DateandTime": "2024-02-15",
+      "Department": "HR",
+      "TransactionID": "T05800"
+    },
+    {
+      "Amount": -2217.06,
+      "Category": "Training",
+      "DateandTime": "2023-12-28",
+      "Department": "HR",
+      "TransactionID": "T05803"
+    },
+    {
+      "Amount": -160.26,
+      "Category": "Training",
+      "DateandTime": "2023-04-27",
+      "Department": "HR",
+      "TransactionID": "T05815"
+    },
+    {
+      "Amount": -1003.82,
+      "Category": "Salary",
+      "DateandTime": "2023-12-20",
+      "Department": "HR",
+      "TransactionID": "T05821"
+    },
+    {
+      "Amount": -1575.64,
+      "Category": "Training",
+      "DateandTime": "2023-11-26",
+      "Department": "HR",
+      "TransactionID": "T05833"
+    },
+    {
+      "Amount": -2903.79,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-05",
+      "Department": "HR",
+      "TransactionID": "T05834"
+    },
+    {
+      "Amount": -3703.06,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-31",
+      "Department": "HR",
+      "TransactionID": "T05839"
+    },
+    {
+      "Amount": -3653.85,
+      "Category": "Salary",
+      "DateandTime": "2023-11-24",
+      "Department": "HR",
+      "TransactionID": "T05865"
+    },
+    {
+      "Amount": -4146.99,
+      "Category": "Salary",
+      "DateandTime": "2023-05-11",
+      "Department": "HR",
+      "TransactionID": "T05872"
+    },
+    {
+      "Amount": -3775.39,
+      "Category": "Salary",
+      "DateandTime": "2023-08-06",
+      "Department": "HR",
+      "TransactionID": "T05904"
+    },
+    {
+      "Amount": -2463.26,
+      "Category": "Training",
+      "DateandTime": "2024-02-06",
+      "Department": "HR",
+      "TransactionID": "T05907"
+    },
+    {
+      "Amount": -1707.34,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-02",
+      "Department": "HR",
+      "TransactionID": "T05908"
+    },
+    {
+      "Amount": -2289.73,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-30",
+      "Department": "HR",
+      "TransactionID": "T05916"
+    },
+    {
+      "Amount": -3318.56,
+      "Category": "Training",
+      "DateandTime": "2023-10-20",
+      "Department": "HR",
+      "TransactionID": "T05925"
+    },
+    {
+      "Amount": -4248.01,
+      "Category": "Salary",
+      "DateandTime": "2023-08-14",
+      "Department": "HR",
+      "TransactionID": "T05928"
+    },
+    {
+      "Amount": -2021.25,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-11",
+      "Department": "HR",
+      "TransactionID": "T05930"
+    },
+    {
+      "Amount": -2726.9,
+      "Category": "Salary",
+      "DateandTime": "2023-12-05",
+      "Department": "HR",
+      "TransactionID": "T05931"
+    },
+    {
+      "Amount": -1741.78,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-09",
+      "Department": "HR",
+      "TransactionID": "T05942"
+    },
+    {
+      "Amount": -477.2,
+      "Category": "Training",
+      "DateandTime": "2024-01-22",
+      "Department": "HR",
+      "TransactionID": "T05952"
+    },
+    {
+      "Amount": -261.26,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-25",
+      "Department": "HR",
+      "TransactionID": "T05955"
+    },
+    {
+      "Amount": -1590.32,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-05",
+      "Department": "HR",
+      "TransactionID": "T05972"
+    },
+    {
+      "Amount": -1013.93,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-27",
+      "Department": "HR",
+      "TransactionID": "T05977"
+    },
+    {
+      "Amount": -1290.38,
+      "Category": "Salary",
+      "DateandTime": "2024-03-22",
+      "Department": "HR",
+      "TransactionID": "T05996"
+    },
+    {
+      "Amount": -4584.63,
+      "Category": "Training",
+      "DateandTime": "2023-07-19",
+      "Department": "HR",
+      "TransactionID": "T06004"
+    },
+    {
+      "Amount": -3954.68,
+      "Category": "Recruitment",
+      "DateandTime": "2023-04-15",
+      "Department": "HR",
+      "TransactionID": "T06036"
+    },
+    {
+      "Amount": -2603.27,
+      "Category": "Salary",
+      "DateandTime": "2024-01-23",
+      "Department": "HR",
+      "TransactionID": "T06046"
+    },
+    {
+      "Amount": -1928.25,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-10",
+      "Department": "HR",
+      "TransactionID": "T06057"
+    },
+    {
+      "Amount": -1230.98,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-06",
+      "Department": "HR",
+      "TransactionID": "T06073"
+    },
+    {
+      "Amount": -2602.68,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-09",
+      "Department": "HR",
+      "TransactionID": "T06082"
+    },
+    {
+      "Amount": -872.87,
+      "Category": "Salary",
+      "DateandTime": "2023-06-22",
+      "Department": "HR",
+      "TransactionID": "T06100"
+    },
+    {
+      "Amount": -1854.29,
+      "Category": "Salary",
+      "DateandTime": "2024-03-06",
+      "Department": "HR",
+      "TransactionID": "T06115"
+    },
+    {
+      "Amount": -2347.44,
+      "Category": "Training",
+      "DateandTime": "2024-03-09",
+      "Department": "HR",
+      "TransactionID": "T06120"
+    },
+    {
+      "Amount": -1146.41,
+      "Category": "Salary",
+      "DateandTime": "2023-09-10",
+      "Department": "HR",
+      "TransactionID": "T06121"
+    },
+    {
+      "Amount": -1862.75,
+      "Category": "Training",
+      "DateandTime": "2023-06-05",
+      "Department": "HR",
+      "TransactionID": "T06143"
+    },
+    {
+      "Amount": -2772.49,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-01",
+      "Department": "HR",
+      "TransactionID": "T06149"
+    },
+    {
+      "Amount": -2893.76,
+      "Category": "Training",
+      "DateandTime": "2024-02-09",
+      "Department": "HR",
+      "TransactionID": "T06156"
+    },
+    {
+      "Amount": -3933.88,
+      "Category": "Salary",
+      "DateandTime": "2023-05-24",
+      "Department": "HR",
+      "TransactionID": "T06161"
+    },
+    {
+      "Amount": -4321.57,
+      "Category": "Training",
+      "DateandTime": "2023-08-27",
+      "Department": "HR",
+      "TransactionID": "T06169"
+    },
+    {
+      "Amount": -3821.64,
+      "Category": "Salary",
+      "DateandTime": "2023-05-13",
+      "Department": "HR",
+      "TransactionID": "T06191"
+    },
+    {
+      "Amount": -1830.07,
+      "Category": "Salary",
+      "DateandTime": "2023-06-20",
+      "Department": "HR",
+      "TransactionID": "T06208"
+    },
+    {
+      "Amount": -2143.66,
+      "Category": "Training",
+      "DateandTime": "2023-11-06",
+      "Department": "HR",
+      "TransactionID": "T06214"
+    },
+    {
+      "Amount": -3146.88,
+      "Category": "Training",
+      "DateandTime": "2023-05-10",
+      "Department": "HR",
+      "TransactionID": "T06215"
+    },
+    {
+      "Amount": -1557.5,
+      "Category": "Training",
+      "DateandTime": "2023-11-02",
+      "Department": "HR",
+      "TransactionID": "T06228"
+    },
+    {
+      "Amount": -2266.54,
+      "Category": "Salary",
+      "DateandTime": "2023-11-17",
+      "Department": "HR",
+      "TransactionID": "T06230"
+    },
+    {
+      "Amount": -3977.41,
+      "Category": "Salary",
+      "DateandTime": "2023-08-06",
+      "Department": "HR",
+      "TransactionID": "T06248"
+    },
+    {
+      "Amount": -3469.9,
+      "Category": "Training",
+      "DateandTime": "2023-12-19",
+      "Department": "HR",
+      "TransactionID": "T06273"
+    },
+    {
+      "Amount": -1987.5,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-08",
+      "Department": "HR",
+      "TransactionID": "T06274"
+    },
+    {
+      "Amount": -2517.73,
+      "Category": "Training",
+      "DateandTime": "2023-06-21",
+      "Department": "HR",
+      "TransactionID": "T06290"
+    },
+    {
+      "Amount": -917.08,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-23",
+      "Department": "HR",
+      "TransactionID": "T06293"
+    },
+    {
+      "Amount": -3492.6,
+      "Category": "Recruitment",
+      "DateandTime": "2024-03-01",
+      "Department": "HR",
+      "TransactionID": "T06307"
+    },
+    {
+      "Amount": -1588.83,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-08",
+      "Department": "HR",
+      "TransactionID": "T06310"
+    },
+    {
+      "Amount": -2188.45,
+      "Category": "Salary",
+      "DateandTime": "2023-08-02",
+      "Department": "HR",
+      "TransactionID": "T06326"
+    },
+    {
+      "Amount": -460.5,
+      "Category": "Salary",
+      "DateandTime": "2023-09-22",
+      "Department": "HR",
+      "TransactionID": "T06330"
+    },
+    {
+      "Amount": -868.99,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-25",
+      "Department": "HR",
+      "TransactionID": "T06332"
+    },
+    {
+      "Amount": -3714.0,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-31",
+      "Department": "HR",
+      "TransactionID": "T06345"
+    },
+    {
+      "Amount": -2903.3,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-27",
+      "Department": "HR",
+      "TransactionID": "T06346"
+    },
+    {
+      "Amount": -1506.91,
+      "Category": "Salary",
+      "DateandTime": "2023-12-08",
+      "Department": "HR",
+      "TransactionID": "T06371"
+    },
+    {
+      "Amount": -1085.11,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-17",
+      "Department": "HR",
+      "TransactionID": "T06377"
+    },
+    {
+      "Amount": -3183.37,
+      "Category": "Training",
+      "DateandTime": "2023-07-10",
+      "Department": "HR",
+      "TransactionID": "T06388"
+    },
+    {
+      "Amount": -411.08,
+      "Category": "Training",
+      "DateandTime": "2024-02-27",
+      "Department": "HR",
+      "TransactionID": "T06395"
+    },
+    {
+      "Amount": -4667.42,
+      "Category": "Training",
+      "DateandTime": "2023-08-12",
+      "Department": "HR",
+      "TransactionID": "T06397"
+    },
+    {
+      "Amount": -2415.64,
+      "Category": "Training",
+      "DateandTime": "2023-12-29",
+      "Department": "HR",
+      "TransactionID": "T06443"
+    },
+    {
+      "Amount": -2551.71,
+      "Category": "Training",
+      "DateandTime": "2024-01-03",
+      "Department": "HR",
+      "TransactionID": "T06445"
+    },
+    {
+      "Amount": -3329.85,
+      "Category": "Salary",
+      "DateandTime": "2023-04-21",
+      "Department": "HR",
+      "TransactionID": "T06459"
+    },
+    {
+      "Amount": -2842.62,
+      "Category": "Recruitment",
+      "DateandTime": "2023-08-03",
+      "Department": "HR",
+      "TransactionID": "T06463"
+    },
+    {
+      "Amount": -2309.05,
+      "Category": "Training",
+      "DateandTime": "2023-05-08",
+      "Department": "HR",
+      "TransactionID": "T06464"
+    },
+    {
+      "Amount": -3376.26,
+      "Category": "Salary",
+      "DateandTime": "2024-02-12",
+      "Department": "HR",
+      "TransactionID": "T06465"
+    },
+    {
+      "Amount": -3621.44,
+      "Category": "Salary",
+      "DateandTime": "2023-07-02",
+      "Department": "HR",
+      "TransactionID": "T06486"
+    },
+    {
+      "Amount": -1334.15,
+      "Category": "Salary",
+      "DateandTime": "2023-07-04",
+      "Department": "HR",
+      "TransactionID": "T06494"
+    },
+    {
+      "Amount": -4147.07,
+      "Category": "Training",
+      "DateandTime": "2024-03-10",
+      "Department": "HR",
+      "TransactionID": "T06504"
+    },
+    {
+      "Amount": -3037.28,
+      "Category": "Salary",
+      "DateandTime": "2023-06-28",
+      "Department": "HR",
+      "TransactionID": "T06514"
+    },
+    {
+      "Amount": -4758.32,
+      "Category": "Salary",
+      "DateandTime": "2024-01-23",
+      "Department": "HR",
+      "TransactionID": "T06515"
+    },
+    {
+      "Amount": -1961.95,
+      "Category": "Salary",
+      "DateandTime": "2023-07-09",
+      "Department": "HR",
+      "TransactionID": "T06535"
+    },
+    {
+      "Amount": -3206.97,
+      "Category": "Salary",
+      "DateandTime": "2023-11-05",
+      "Department": "HR",
+      "TransactionID": "T06538"
+    },
+    {
+      "Amount": -3116.47,
+      "Category": "Salary",
+      "DateandTime": "2024-01-21",
+      "Department": "HR",
+      "TransactionID": "T06539"
+    },
+    {
+      "Amount": -3579.83,
+      "Category": "Salary",
+      "DateandTime": "2023-12-01",
+      "Department": "HR",
+      "TransactionID": "T06540"
+    },
+    {
+      "Amount": -4669.57,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-04",
+      "Department": "HR",
+      "TransactionID": "T06545"
+    },
+    {
+      "Amount": -369.18,
+      "Category": "Salary",
+      "DateandTime": "2023-10-25",
+      "Department": "HR",
+      "TransactionID": "T06546"
+    },
+    {
+      "Amount": -4684.29,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-05",
+      "Department": "HR",
+      "TransactionID": "T06549"
+    },
+    {
+      "Amount": -625.12,
+      "Category": "Salary",
+      "DateandTime": "2023-11-22",
+      "Department": "HR",
+      "TransactionID": "T06551"
+    },
+    {
+      "Amount": -2409.9,
+      "Category": "Training",
+      "DateandTime": "2023-05-26",
+      "Department": "HR",
+      "TransactionID": "T06553"
+    },
+    {
+      "Amount": -810.59,
+      "Category": "Recruitment",
+      "DateandTime": "2023-07-12",
+      "Department": "HR",
+      "TransactionID": "T06560"
+    },
+    {
+      "Amount": -4072.74,
+      "Category": "Training",
+      "DateandTime": "2023-06-02",
+      "Department": "HR",
+      "TransactionID": "T06565"
+    },
+    {
+      "Amount": -2131.71,
+      "Category": "Recruitment",
+      "DateandTime": "2023-10-12",
+      "Department": "HR",
+      "TransactionID": "T06575"
+    },
+    {
+      "Amount": -881.08,
+      "Category": "Salary",
+      "DateandTime": "2024-02-13",
+      "Department": "HR",
+      "TransactionID": "T06590"
+    },
+    {
+      "Amount": -3993.42,
+      "Category": "Training",
+      "DateandTime": "2023-05-17",
+      "Department": "HR",
+      "TransactionID": "T06605"
+    },
+    {
+      "Amount": -1965.15,
+      "Category": "Salary",
+      "DateandTime": "2024-02-10",
+      "Department": "HR",
+      "TransactionID": "T06610"
+    },
+    {
+      "Amount": -195.03,
+      "Category": "Recruitment",
+      "DateandTime": "2023-06-16",
+      "Department": "HR",
+      "TransactionID": "T06614"
+    },
+    {
+      "Amount": -2587.94,
+      "Category": "Salary",
+      "DateandTime": "2023-10-02",
+      "Department": "HR",
+      "TransactionID": "T06624"
+    },
+    {
+      "Amount": -2573.92,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-23",
+      "Department": "HR",
+      "TransactionID": "T06651"
+    },
+    {
+      "Amount": -2300.86,
+      "Category": "Salary",
+      "DateandTime": "2023-04-14",
+      "Department": "HR",
+      "TransactionID": "T06662"
+    },
+    {
+      "Amount": -609.46,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-01",
+      "Department": "HR",
+      "TransactionID": "T06665"
+    },
+    {
+      "Amount": -957.84,
+      "Category": "Training",
+      "DateandTime": "2024-02-22",
+      "Department": "HR",
+      "TransactionID": "T06667"
+    },
+    {
+      "Amount": -1881.26,
+      "Category": "Recruitment",
+      "DateandTime": "2023-12-23",
+      "Department": "HR",
+      "TransactionID": "T06680"
+    },
+    {
+      "Amount": -1200.93,
+      "Category": "Training",
+      "DateandTime": "2023-04-21",
+      "Department": "HR",
+      "TransactionID": "T06687"
+    },
+    {
+      "Amount": -149.65,
+      "Category": "Recruitment",
+      "DateandTime": "2024-01-12",
+      "Department": "HR",
+      "TransactionID": "T06707"
+    },
+    {
+      "Amount": -3236.14,
+      "Category": "Training",
+      "DateandTime": "2023-05-30",
+      "Department": "HR",
+      "TransactionID": "T06711"
+    },
+    {
+      "Amount": -3072.53,
+      "Category": "Training",
+      "DateandTime": "2023-07-24",
+      "Department": "HR",
+      "TransactionID": "T06717"
+    },
+    {
+      "Amount": -280.85,
+      "Category": "Training",
+      "DateandTime": "2023-05-13",
+      "Department": "HR",
+      "TransactionID": "T06726"
+    },
+    {
+      "Amount": -4082.76,
+      "Category": "Training",
+      "DateandTime": "2023-09-01",
+      "Department": "HR",
+      "TransactionID": "T06747"
+    },
+    {
+      "Amount": -4923.25,
+      "Category": "Training",
+      "DateandTime": "2023-11-11",
+      "Department": "HR",
+      "TransactionID": "T06760"
+    },
+    {
+      "Amount": -1721.0,
+      "Category": "Training",
+      "DateandTime": "2023-05-02",
+      "Department": "HR",
+      "TransactionID": "T06786"
+    },
+    {
+      "Amount": -1264.57,
+      "Category": "Salary",
+      "DateandTime": "2023-05-04",
+      "Department": "HR",
+      "TransactionID": "T06810"
+    },
+    {
+      "Amount": -3485.4,
+      "Category": "Training",
+      "DateandTime": "2023-06-01",
+      "Department": "HR",
+      "TransactionID": "T06817"
+    },
+    {
+      "Amount": -508.58,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-26",
+      "Department": "HR",
+      "TransactionID": "T06822"
+    },
+    {
+      "Amount": -1142.53,
+      "Category": "Salary",
+      "DateandTime": "2023-12-26",
+      "Department": "HR",
+      "TransactionID": "T06853"
+    },
+    {
+      "Amount": -782.56,
+      "Category": "Salary",
+      "DateandTime": "2023-06-06",
+      "Department": "HR",
+      "TransactionID": "T06860"
+    },
+    {
+      "Amount": -665.24,
+      "Category": "Training",
+      "DateandTime": "2023-11-23",
+      "Department": "HR",
+      "TransactionID": "T06861"
+    },
+    {
+      "Amount": -2147.22,
+      "Category": "Training",
+      "DateandTime": "2023-09-01",
+      "Department": "HR",
+      "TransactionID": "T06868"
+    },
+    {
+      "Amount": -1598.81,
+      "Category": "Salary",
+      "DateandTime": "2023-08-27",
+      "Department": "HR",
+      "TransactionID": "T06869"
+    },
+    {
+      "Amount": -4824.09,
+      "Category": "Salary",
+      "DateandTime": "2023-06-27",
+      "Department": "HR",
+      "TransactionID": "T06878"
+    },
+    {
+      "Amount": -1429.52,
+      "Category": "Training",
+      "DateandTime": "2023-11-21",
+      "Department": "HR",
+      "TransactionID": "T06879"
+    },
+    {
+      "Amount": -1177.52,
+      "Category": "Training",
+      "DateandTime": "2023-10-19",
+      "Department": "HR",
+      "TransactionID": "T06889"
+    },
+    {
+      "Amount": -549.91,
+      "Category": "Salary",
+      "DateandTime": "2023-12-26",
+      "Department": "HR",
+      "TransactionID": "T06897"
+    },
+    {
+      "Amount": -4319.52,
+      "Category": "Training",
+      "DateandTime": "2024-02-21",
+      "Department": "HR",
+      "TransactionID": "T06900"
+    },
+    {
+      "Amount": -3781.61,
+      "Category": "Salary",
+      "DateandTime": "2024-01-02",
+      "Department": "HR",
+      "TransactionID": "T06914"
+    },
+    {
+      "Amount": -1827.51,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-10",
+      "Department": "HR",
+      "TransactionID": "T06915"
+    },
+    {
+      "Amount": -1544.66,
+      "Category": "Salary",
+      "DateandTime": "2023-05-14",
+      "Department": "HR",
+      "TransactionID": "T06920"
+    },
+    {
+      "Amount": -2393.31,
+      "Category": "Training",
+      "DateandTime": "2023-06-24",
+      "Department": "HR",
+      "TransactionID": "T06924"
+    },
+    {
+      "Amount": -3207.12,
+      "Category": "Salary",
+      "DateandTime": "2023-04-22",
+      "Department": "HR",
+      "TransactionID": "T06928"
+    },
+    {
+      "Amount": -473.4,
+      "Category": "Recruitment",
+      "DateandTime": "2024-02-03",
+      "Department": "HR",
+      "TransactionID": "T06935"
+    },
+    {
+      "Amount": -3601.99,
+      "Category": "Salary",
+      "DateandTime": "2023-04-22",
+      "Department": "HR",
+      "TransactionID": "T06960"
+    },
+    {
+      "Amount": -625.29,
+      "Category": "Salary",
+      "DateandTime": "2023-12-28",
+      "Department": "HR",
+      "TransactionID": "T06964"
+    },
+    {
+      "Amount": -1304.96,
+      "Category": "Salary",
+      "DateandTime": "2023-07-29",
+      "Department": "HR",
+      "TransactionID": "T06971"
+    },
+    {
+      "Amount": -2102.41,
+      "Category": "Recruitment",
+      "DateandTime": "2023-05-21",
+      "Department": "HR",
+      "TransactionID": "T06974"
+    },
+    {
+      "Amount": -940.53,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-13",
+      "Department": "HR",
+      "TransactionID": "T06984"
+    },
+    {
+      "Amount": -3166.88,
+      "Category": "Recruitment",
+      "DateandTime": "2023-11-22",
+      "Department": "HR",
+      "TransactionID": "T06988"
+    },
+    {
+      "Amount": -1638.07,
+      "Category": "Salary",
+      "DateandTime": "2023-08-14",
+      "Department": "HR",
+      "TransactionID": "T06991"
+    }
+  ]
+}

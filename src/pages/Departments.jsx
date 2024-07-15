@@ -1,8 +1,15 @@
-import React from 'react'
+import React from 'react';
+import DepartmentCharts from '../components/DepartmentCharts';
+import DepartmentTransactions from '../components/DepartmentTransactions';
+import DepartmentsPie from '../components/DepartmentsPie';
+//import './departments.css';
 
-export default function Department() {
-	return (
-		<h1>dep</h1>
-	)
+export default function Departments() {
+  return (
+    <div className='view'>
+      <DepartmentCharts />
+      <DepartmentTransactions />
+      <DepartmentsPie />
+    </div>
+  );
 }
-
