@@ -11,12 +11,14 @@ import axios from 'axios';
 export default function Dashboard() {
     const [apiData, setApiData] = useState(null);
     const [error, setError] = useState(null);
+    const token = localStorage.getItem('token');
 
     useEffect(() => {
         const fetchData = async () => {
             try {
                 const response = await axios.get('http://127.0.0.1:5000/dashboard', {
                     headers: {
+                        Authorization:`Bearer ${token}`,
                         "ngrok-skip-browser-warning": "69420",
                     }
                 });
