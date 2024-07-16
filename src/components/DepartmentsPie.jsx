@@ -16,7 +16,7 @@ const DepartmentsPie = () => {
   const COLORS = ['#0088FE', '#FF8042', '#00C49F'];
 
   return (
-    <div style={{ display: 'flex', justifyContent: 'space-around', padding: '20px', backgroundColor: '#282c34', borderRadius: '10px' }}>
+    <div style={{ display: 'flex', justifyContent: 'space-around', padding: '20px',  borderRadius: '10px', maxWidth:'85vw', marginTop:'20px' }}>
       <div style={{ width: '45%' }}>
         <h4 style={{ color: '#61dafb', textAlign: 'center' }}>Total Expenditure and Revenue</h4>
         <ResponsiveContainer width="100%" height={400}>

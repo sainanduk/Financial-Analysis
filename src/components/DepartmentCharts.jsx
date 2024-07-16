@@ -20,7 +20,7 @@ const COLORS = {
 const DepartmentCharts = () => {
   console.log(data.DepartmentSummary.CategorySummary);
   return (
-    <div className='chart' style={{ width: '100%', maxWidth: '70%', height: 400, margin: 'auto' }}>
+    <div className='chart' style={{ width: '100%', maxWidth: '65%', height: 400}}>
       <ResponsiveContainer width="100%" height="100%">
         <BarChart data={chartData} margin={{ top: 20, right: 30, left: 20, bottom: 5 }}>
           <CartesianGrid strokeDasharray="3 3" />

@@ -7,8 +7,9 @@ import DepartmentsPie from '../components/DepartmentsPie';
 export default function Departments() {
   return (
     <div className='view'>
-      <DepartmentCharts />
       <DepartmentTransactions />
+      <DepartmentCharts />
+      
       <DepartmentsPie />
     </div>
   );

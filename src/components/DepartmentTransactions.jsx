@@ -24,7 +24,7 @@ const DepartmentTransactions = () => {
   }));
 
   return (
-    <div style={{ width: '100%', padding: '20px', backgroundColor: '#282c34', borderRadius: '10px' }}>
+    <div style={{ width: '64%', padding: '20px', backgroundColor: '#282c34', borderRadius: '10px', marginBottom: '30px' }}>
       <h4 style={{ color: '#61dafb', textAlign: 'center' }}>Transactions Line Chart</h4>
       
       <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '20px' }}>
