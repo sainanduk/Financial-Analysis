@@ -1,15 +1,6 @@
 import React from 'react';
-import data from "../responsedepartments.json";
-import "./chart.css";
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
-
-// Convert the CategorySummary data to the desired format
-const chartData = data.DepartmentSummary.CategorySummary.map(item => ({
-  name: item.Category,
-  Expenditure: item.Expenditure,
-  Profit: item.Profit,
-  Revenue: item.Revenue
-}));
+import "./chart.css";
 
 const COLORS = {
   Expenditure: '#8884d8', // Light Purple
@@ -17,8 +8,15 @@ const COLORS = {
   Revenue: '#ffc658' // Light Yellow
 };
 
-const DepartmentCharts = () => {
-  console.log(data.DepartmentSummary.CategorySummary);
+const DepartmentCharts = ({ categorySummary }) => {
+  // Convert the CategorySummary data to the desired format
+  const chartData = categorySummary.map(item => ({
+    name: item.Category,
+    Expenditure: item.Expenditure,
+    Profit: item.Profit,
+    Revenue: item.Revenue
+  }));
+
   return (
     <div className='chart' style={{ width: '100%', maxWidth: '65%', height: 400}}>
       <ResponsiveContainer width="100%" height="100%">

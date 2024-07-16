@@ -1,16 +1,24 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
-import data from "../responsedepartments.json";
 import './chart.css';
 
-// Convert the Transactions data to the desired format
-const sortedData = data.Transactions.sort((a, b) => new Date(a.DateandTime) - new Date(b.DateandTime));
+const DepartmentTransactions = ({ transactions }) => {
+  const [startDate, setStartDate] = useState(new Date());
+  const [endDate, setEndDate] = useState(new Date());
 
-const DepartmentTransactions = () => {
-  const [startDate, setStartDate] = useState(new Date(sortedData[0].DateandTime));
-  const [endDate, setEndDate] = useState(new Date(sortedData[sortedData.length - 1].DateandTime));
+  // Check if transactions is not empty before sorting
+  const sortedData = transactions && transactions.length > 0 
+    ? transactions.sort((a, b) => new Date(a.DateandTime) - new Date(b.DateandTime))
+    : [];
+
+  useEffect(() => {
+    if (sortedData.length > 0) {
+      setStartDate(new Date(sortedData[0].DateandTime));
+      setEndDate(new Date(sortedData[10].DateandTime));
+    }
+  }, [sortedData]);
 
   const filteredData = sortedData.filter(item => {
     const itemDate = new Date(item.DateandTime);
@@ -19,7 +27,7 @@ const DepartmentTransactions = () => {
 
   const chartData = filteredData.map(item => ({
     date: item.DateandTime,
-    amount: item.Amount,
+    amount: parseFloat(item.Amount),
     category: item.Category
   }));
 
@@ -52,8 +60,8 @@ const DepartmentTransactions = () => {
         </div>
       </div>
       
-      <div style={{ overflowX: 'auto' }}> {/* Add horizontal scroll */}
-        <div style={{ width: '2000px' }}> {/* Set a fixed width for horizontal scroll */}
+      <div style={{ overflowX: 'auto' }}>
+        <div style={{ width: '2000px' }}>
           <ResponsiveContainer width="100%" height={400}>
             <LineChart
               data={chartData}
@@ -75,6 +83,6 @@ const DepartmentTransactions = () => {
       </div>
     </div>
   );
-}
+};
 
 export default DepartmentTransactions;
