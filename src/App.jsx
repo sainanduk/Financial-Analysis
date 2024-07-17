@@ -7,20 +7,21 @@ import Departments from './pages/Departments';
 import Transactions from './pages/Transactions';
 import Signin from './components/Signin';
 import Signup from './components/Signup';
-
+import Upload from './pages/Upload';
 
 function App() {
   return (
     <Router>
       <Routes>
-          <Route index element={<Signin/>}/>
-          <Route path='Signup' element={<Signup/>}/>
-          <Route path="/" element={<Layout />}>
-          <Route path='Dashboard' element={<Dashboard />} />
+        <Route path="/" element={<Signin />} />
+        <Route path="signup" element={<Signup />} />
+        <Route path="/" element={<Layout />}>
+          <Route path="dashboard" element={<Dashboard />} />
           <Route path="departments" element={<Departments />} />
           <Route path="transactions" element={<Transactions />} />
+          <Route path="upload" element={<Upload />} />
         </Route>
-        <Route path="/register" element={<Register />} />
+        <Route path="register" element={<Register />} />
       </Routes>
     </Router>
   );

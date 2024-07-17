@@ -1,14 +1,24 @@
 import React, { useState } from 'react';
-
+import axios from 'axios';
 const Signup = () => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-  const [name, setName] = useState('');
+  const [username, setUsername] = useState('');
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async(e) => {
     e.preventDefault();
-    console.log('Signup successful:', { name, email, password });
-    // Handle signup logic here (e.g., call to an API)
+    try {
+      const response = await axios.post('http://127.0.0.1:5000/signup', {
+        username,
+        email,
+        password
+      });
+      if(response.data.code===201){
+        
+      }
+    } catch (error) {
+      console.error('signup error:', error);
+    }
   };
 
   return (
@@ -20,8 +30,8 @@ const Signup = () => {
             <label className="block text-gray-700 mb-2">Name:</label>
             <input
               type="text"
-              value={name}
-              onChange={(e) => setName(e.target.value)}
+              value={username}
+              onChange={(e) => setUsername(e.target.value)}
               required
               className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
             />

@@ -6,6 +6,7 @@ const Table = () => {
   const [tableData, setTableData] = useState([]);
   const [sortedColumn, setSortedColumn] = useState(null);
   const [sortAsc, setSortAsc] = useState(true);
+  const token = localStorage.getItem('financialtoken');
 
   useEffect(() => {
     fetchTransactions();
@@ -13,7 +14,11 @@ const Table = () => {
 
   const fetchTransactions = async () => {
     try {
-      const response = await axios.get('http://127.0.0.1:5000/transactions'); 
+      const response = await axios.get('http://127.0.0.1:5000/transactions',{
+        headers:{
+          Authorization:`Bearer ${token}`
+        }
+      }); 
       setTableData(response.data.transactions); // Assuming response.data.transactions is an array of transaction objects
     } catch (error) {
       console.error('Error fetching transactions:', error);

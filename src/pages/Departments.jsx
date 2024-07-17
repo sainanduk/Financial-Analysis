@@ -9,19 +9,27 @@ import download from 'downloadjs';
 export default function Departments() {
   const [department, SetDepartment] = useState('Customer Service');
   const [data, SetData] = useState(null);
-  const token = localStorage.getItem('token');
+  const [error, setError] = useState(null);
+  const token = localStorage.getItem('financialtoken');
   const transactionRef = useRef();
   const chartsRef = useRef();
   const pieRef = useRef();
 
   useEffect(() => {
     const fetchdata = async () => {
+      try{
       const response = await axios.get(`http://127.0.0.1:5000/departments-summary/${department}`, {
         headers: {
           Authorization: `Bearer ${token}`
         },
+
       });
       SetData(response.data);
+    }catch(error){
+      console.error('Error fetching data:', error);
+      setError('Error fetching data. Please check your network connection.');
+    }
+      
     }
     fetchdata();
   }, [department]);

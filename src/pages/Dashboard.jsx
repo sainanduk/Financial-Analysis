@@ -11,7 +11,7 @@ import axios from 'axios';
 export default function Dashboard() {
     const [apiData, setApiData] = useState(null);
     const [error, setError] = useState(null);
-    const token = localStorage.getItem('token');
+    const token = localStorage.getItem('financialtoken');
 
     useEffect(() => {
         const fetchData = async () => {
@@ -22,7 +22,7 @@ export default function Dashboard() {
                         "ngrok-skip-browser-warning": "69420",
                     }
                 });
-
+                console.log(response.data);
                 if (response.status === 200) {
                     if (response.headers['content-type'].includes('application/json')) {
                         setApiData(response.data);
@@ -42,7 +42,7 @@ export default function Dashboard() {
         };
 
         fetchData();
-    }, []);
+    },[token]);
 
     if (error) {
         return <div>Error: {error}</div>;
