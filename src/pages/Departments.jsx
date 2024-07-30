@@ -6,6 +6,7 @@ import axios from 'axios';
 import { toPng } from 'html-to-image';
 import download from 'downloadjs';
 import API_URL from './url';
+import { useNavigate } from 'react-router-dom';
 
 export default function Departments() {
   const [department, SetDepartment] = useState('Customer Service');
@@ -15,8 +16,15 @@ export default function Departments() {
   const transactionRef = useRef();
   const chartsRef = useRef();
   const pieRef = useRef();
+  const navigate = useNavigate()
 
   useEffect(() => {
+
+    if(!token){
+      navigate('/signin')
+      return
+    }
+
     const fetchdata = async () => {
       try{
       const response = await axios.get(`${API_URL}/departments-summary/${department}`, {

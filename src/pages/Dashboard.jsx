@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import DashboardStatsGrid from '../components/DashboardStatsGrid';
 import BuyerProfilePieChart from '../components/BuyerProfilePieChart';
 import BarCharts from '../components/doubleBarChart';
@@ -13,8 +14,17 @@ export default function Dashboard() {
     const [apiData, setApiData] = useState(null);
     const [error, setError] = useState(null);
     const token = localStorage.getItem('financialtoken');
+    const navigate = useNavigate()
+
+    
 
     useEffect(() => {
+
+        if(!token){
+            navigate('/signin')
+            return
+        }
+
         const fetchData = async () => {
             try {
                 const response = await axios.get(`${API_URL}/dashboard`, {

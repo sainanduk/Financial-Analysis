@@ -1,11 +1,25 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import './Upload.css';
 import uploadIcon from './file.png';
 import API_URL from '../pages/url';
+import { useNavigate } from 'react-router-dom';
+
+
 
 const Uploadfile = () => {
   const [file, setFile] = useState(null);
   const [error, setError] = useState('');
+  const token = localStorage.getItem('financialtoken');
+  const navigate = useNavigate();
+
+useEffect(() => {
+
+  if(!token){
+      navigate('/signin')
+      return
+  }
+
+}, [])
 
   const handleDrop = (e) => {
     e.preventDefault();

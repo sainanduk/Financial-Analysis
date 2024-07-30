@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import API_URL from '../pages/url';
+import { useNavigate } from 'react-router-dom';
 
 const Table = () => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -8,8 +9,16 @@ const Table = () => {
   const [sortedColumn, setSortedColumn] = useState(null);
   const [sortAsc, setSortAsc] = useState(true);
   const token = localStorage.getItem('financialtoken');
+  const navigate = useNavigate()
 
   useEffect(() => {
+
+
+    if(!token){
+      navigate('/signin')
+      return
+    }
+
     fetchTransactions();
   }, []);
 
