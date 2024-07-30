@@ -21,19 +21,6 @@ export const DASHBOARD_SIDEBAR_LINKS = [
 		path: '/departments',
 		icon: <HiOutlineCube />
 	},
-	
-	// {
-	// 	key: 'profit',
-	// 	label: 'Profit',
-	// 	path: '/profit',
-	// 	icon: <HiOutlineUsers />
-	// },
-	// {
-	// 	key: 'loss',
-	// 	label: 'Loss',
-	// 	path: '/loss',
-	// 	icon: <HiOutlineAnnotation />
-	// },
 	{
 		key: 'transactions',
 		label: 'Transactions',

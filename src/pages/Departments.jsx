@@ -19,9 +19,10 @@ export default function Departments() {
   useEffect(() => {
     const fetchdata = async () => {
       try{
-      const response = await axios.get(`${API_URL}/${department}`, {
+      const response = await axios.get(`${API_URL}/departments-summary/${department}`, {
         headers: {
-          Authorization: `Bearer ${token}`
+          Authorization: `Bearer ${token}`,
+          "ngrok-skip-browser-warning": "69420",
         },
 
       });

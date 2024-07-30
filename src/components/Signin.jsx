@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import API_URL from '../pages/url';
@@ -7,6 +7,13 @@ const Signin = () => {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
   const navigate = useNavigate(); 
+
+  useEffect(() => {
+    const token = localStorage.getItem('financialtoken');
+    if (token) {
+      navigate('/dashboard');
+    }
+  }, [navigate]);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
