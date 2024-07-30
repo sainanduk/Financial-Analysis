@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './Upload.css';
 import uploadIcon from './file.png';
+import API_URL from '../pages/url';
 
 const Uploadfile = () => {
   const [file, setFile] = useState(null);
@@ -43,7 +44,7 @@ const Uploadfile = () => {
     formData.append('file', file);
 
     try {
-      const response = await fetch('http://127.0.0.1:5000/upload', {
+      const response = await fetch(`${API_URL}/upload`, {
         method: 'POST',
         body: formData,
       });

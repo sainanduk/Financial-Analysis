@@ -5,6 +5,7 @@ import DepartmentsPie from '../components/DepartmentsPie';
 import axios from 'axios';
 import { toPng } from 'html-to-image';
 import download from 'downloadjs';
+import API_URL from './url';
 
 export default function Departments() {
   const [department, SetDepartment] = useState('Customer Service');
@@ -18,7 +19,7 @@ export default function Departments() {
   useEffect(() => {
     const fetchdata = async () => {
       try{
-      const response = await axios.get(`http://127.0.0.1:5000/departments-summary/${department}`, {
+      const response = await axios.get(`${API_URL}/${department}`, {
         headers: {
           Authorization: `Bearer ${token}`
         },

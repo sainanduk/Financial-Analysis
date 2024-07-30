@@ -7,6 +7,7 @@ import axios from 'axios';
 // import dotenv from 'dotenv';
 
 // dotenv.config()
+import API_URL from './url';
 
 export default function Dashboard() {
     const [apiData, setApiData] = useState(null);
@@ -16,7 +17,7 @@ export default function Dashboard() {
     useEffect(() => {
         const fetchData = async () => {
             try {
-                const response = await axios.get('http://127.0.0.1:5000/dashboard', {
+                const response = await axios.get(`${API_URL}/dashboard`, {
                     headers: {
                         Authorization:`Bearer ${token}`,
                         "ngrok-skip-browser-warning": "69420",

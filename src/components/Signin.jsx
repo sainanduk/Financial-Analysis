@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
+import API_URL from '../pages/url';
 
 const Signin = () => {
   const [username, setUsername] = useState('');
@@ -10,7 +11,7 @@ const Signin = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('http://127.0.0.1:5000/signin', {
+      const response = await axios.post(`${API_URL}/signin`, {
         username,
         password,
       });
