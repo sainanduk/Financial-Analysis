@@ -80,7 +80,7 @@ const Uploadfile = () => {
           style={{ display: 'none' }}
           onChange={handleBrowse}
         />
-        <label htmlFor="fileUpload" className="browse-button">Browse Computer</label>
+        <label htmlFor="fileUpload" className="browse-button mr-3">Browse Computer</label>
         {file && <p className="file-info">File: {file.name}</p>}
         {error && <p className="error-message">{error}</p>}
         <button onClick={handleUpload} className="upload-button">Upload</button>

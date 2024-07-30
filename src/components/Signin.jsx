@@ -13,7 +13,7 @@ const Signin = () => {
     if (token) {
       navigate('/dashboard');
     }
-  }, [navigate]);
+  }, []);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -23,7 +23,7 @@ const Signin = () => {
         password,
       });
       localStorage.setItem('financialtoken', response.data.financialtoken);
-      navigate('/Dashboard');
+      navigate('/dashboard');
     } catch (error) {
       console.error('Login error:', error);
     }
